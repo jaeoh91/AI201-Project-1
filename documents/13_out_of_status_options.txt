@@ -1,0 +1,93 @@
+Source: Out of Status Options
+URL: https://isss.oie.gatech.edu/node/3967
+
+# Out of Status Options
+
+If you fail to maintain your F-1 status and your SEVIS immigration record is terminated, this means that you are considered as out-of-status by the Department of Homeland Security and you would no longer eligible for on-campus employment, practical training, travel signatures for re-entry to the US, or any other benefits of F-1 status. If your record is terminated, OIE will place a hold on your account to prevent registration until you take corrective action to regain your F-1 status.
+
+To correct your status, you have two options: Travel and Re-entry or Reinstatement. These options should be discussed with an International Student Advisor. After speaking with OIE, you must consult with a qualified immigration attorney to determine which option is best for you.
+
+## Options for F-1 Students to Regain Status
+
+Option 1: Travel and Re-Entry
+
+1. Depart the U.S. as soon as you can after the violation of status has occurred.
+2. Obtain a new I-20 form with a new SEVIS ID.
+
+- Work with OIE to obtain a new I-20 form with a new SEVIS ID at least 60 days before the term you intend to return.
+- You will need to complete the "I-20 Request for Returning Students" e-form in iStart at least 60 days before the term you intend to return
+- The e-form can be found: istart.gatech.edu > F Students > I-20 Request for Returning Students
+3. Pay the SEVP I-901 fee
+
+- After receiving the new I-20 form with the new SEVIS ID, pay the SEVP I-901 fee on the new SEVIS ID.
+- More information about the SEVP I-901 fee can be found on SEVP's website, https://www.fmjfee.com/i901fee/index.html.
+4. Check your F-1/J-1 visa.
+
+- If your visa is still valid and unexpired, you may be able to utilize the visa with your old SEVIS ID and the new I-20 form to enter the U.S. If your visa has expired or is no longer valid, you will need to apply for a new visa with your new I-20 form.
+- OIE is unable to verify the validity of your visa. You are encouraged to consult with the U.S. embassy/consulate that issued your visa to you in order to ensure its validity before traveling.
+5. Re-enter the U.S. within 30 days of the program start date listed on your new I-20 form and enroll full-time.
+6. Complete the OIE Check-In e-forms to confirm your plans and arrival to the U.S..
+
+If you choose to travel, it is important you keep the following in mind:
+
+- If you choose to travel to regain status, there is no guarantee that you will be issued a new visa or permitted to re-enter the U.S. The U.S. Department of State will review your visa application and decide if you are eligible for a student visa.  The decision to admit you to the U.S. is made by the Customs and Border Protection officer at the port of entry.
+- If you are admitted to the U.S. with your new documentation, you will gain F-1 status. As you will be on a new SEVIS ID, you must be in status for 2 semesters (fall and spring term) with the new record to be eligible for OPT or CPT.
+
+Option 2: Apply for F-1 Visa Status Reinstatement through USCIS
+The F-1 visa status reinstatement process is subjective and up to the discretion of USCIS. USCIS reviews the applicant’s I-539 application and supporting materials and makes the decision on whether or not to approve the F-1 status reinstatement.
+
+Applicants for F-1 visa status reinstatement will be evaluated based upon the following criteria:
+
+- Applicant has not been out of status for more than 5 months at the time of filing the request for reinstatement (or the failure to file within the 5 month period was the result of exceptional circumstances and that the applicant filed the request for reinstatement as promptly as possible under these exceptional circumstances). And the applicant remained inside the U.S. after the ending of the immigration record.
+- Applicant does not have a record of repeated or willful violations of [USCIS] regulations.
+- Applicant is currently pursuing, or intending to pursue, a full course of study in the immediate future at the school which issued the Form I-20.
+- Applicant has not engaged in unauthorized employment.
+- Applicant is not deportable on any ground other than section 237(a)(1)(B) or (C)(i) of the Act.
+- Applicant establishes to the satisfaction of the [USCIS], in detail showing, either that:
+
+- The violation of status resulted from circumstances beyond your control. Such circumstances might include serious injury or illness, closure of the institution, a natural disaster, or inadvertence, oversight, or neglect on the part of the DSO, but do not include instances where a pattern of violations or where a willful failure on your part resulted in the need for reinstatement.
+- The violation relates to a reduction in your course load that would have been within a DSO's power to authorize, and that failure to approve reinstatement would result in extreme hardship to the student.
+
+Procedure to apply for F-1 Visa Status Reinstatement:
+
+1. Speak with an International Student Advisor to assess your eligibility for the reinstatement I-20 recommendation form.
+2. Prepare and gather the documentation required to submit I-539 application to USCIS. You are also encouraged to review USCIS's instructions on how to file your I-539 form.
+
+1. USCIS form I-539, available on the USCIS web site: https://www.uscis.gov/forms/all-forms. If you have questions about how to prepare the I-539, you must consult with an immigration attorney. ​​​​​​OIE is unable to provide any guidance or advise students on how to complete and prepare the I-539 form.
+2. I-539 Application Fee (https://www.uscis.gov/forms/all-forms), payable to the US Department of Homeland Security.
+3. A cover letter from you requesting reinstatement to F-1 status and explaining your circumstances. You should explain that the violation of F-1 status resulted from circumstances beyond your control and/or that the failure to be reinstated would result in extreme hardship. Attach any additional supporting documents.
+4. A new SEVIS I-20 form issued by Georgia Tech for purposes of reinstatement (signed by you and an ISSS advisor).
+5. A copy of your previous I-20 form(s).
+6. Financial support documents to show evidence of continued funding—documents should be recent (no more than 6 months old).  The financial documents should meet the requirements listed on OIE's financial documentation website.
+7. A copy of your passport photo page—include any other pages that contain the expiration date, extensions, or any biographical information. Your passport should be valid for at least 6 months into the future.
+8. A copy of your most recent F-1 visa (stamp), used to enter the U.S.
+
+1. If you obtained F-1 status via a change of status application, you must include documentation of your F-1 status approval from USCIS instead of the F-1 visa.
+9. A copy of your most recently issued I-94 record.
+
+1. If you do not have an electronic I-94, then you will need to include a copy of the front and back of your paper I-9 card.
+10. A copy of your transcript and course registration​.
+3. The final step after preparing your materials is to file your application to USCIS following USCIS filing instructions.
+
+If you choose to file for reinstatement with USCIS, it is important you keep the following in mind:
+
+- A decision to reinstate your F-1 student status is at the discretion of the USCIS.
+- Processing times at USCIS vary greatly.  Please review USCIS's processing times to see when you can expect a decision from USCIS on your reinstatement application.
+- While the application is pending, you are not eligible for any F-1 student benefits, such as practical training employment authorization or on-campus employment. If you are reinstated into F-1 status, you must obtain proper authorization before working.
+- While the application is pending, you are required to maintain full-time enrollment. You are not eligible for reduced course load requests while a reinstatement application is pending.
+- Travel outside the U.S. while a reinstatement application is pending is considered to be an abandonment of the application. If you need to leave the U.S. while your application is pending, you must discuss your plans with OIE prior to travel.
+- If the application is approved, USCIS will endorse the new I-20 form and return it to the mailing address listed on the I-539 form.  Please contact OIE when you receive any updates regarding the status of your reinstatement application with USCIS.
+- If you have dependents in F-2 status, their status is automatically reinstated with your reinstatement.
+- If your reinstatement application is denied, you must discuss the consequences and next steps with a qualified immigration attorney, including but not limited to the following:
+
+- Your F-1 visa will automatically be cancelled
+- You are permanently limited to applying for non-immigrant visas in the future only in your country of citizenship or permanent residence
+- Accrual of unlawful presence
+
+Option 3: Remaining Out of Status
+
+Choosing to remain in the U.S. while out of status is a high-risk decision that the OIE does not recommend. If you remain in the U.S. after your I-20 form has been terminated, completed, or you have violated your status, you are not eligible to receive any benefits of your immigration status, such as work authorization (on-campus work, CPT, or OPT). If you are certain you want to remain inside the U.S. without status, to understand the full consequences, we encourage you to consult with a qualified immigration attorney. Please review our resource on how to seek consultation in the U.S., https://isss.oie.gatech.edu/content/seeking-legal-consultation-us.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

@@ -1,0 +1,237 @@
+Source: Optional Practical Training (OPT)
+URL: https://isss.oie.gatech.edu/node/3142
+
+# Optional Practical Training
+
+Navigation
+
+- Eligibility Requirements
+- Application Process
+- After USCIS Receives Your OPT Application
+- Maintenance of F-1 Status on OPT
+- Reporting Requirements for Maintaining Status
+- SEVP Portal
+- OPT and Traveling Abroad
+- Options After Post-Completion OPT
+- Optional Practical Training Resources
+- OIE Practical Training Fee
+
+Quick Links
+
+- Virtual F-1 OPT Workshop
+- Study in the States: Information about OPT
+- USCIS's Website: Information about OPT
+- USCIS's Website: I-765 Form
+- Tips for F-1 OPT students filing I-765
+- Eligible employment types while on OPT
+- OPT Travel Information
+- OPT FAQ page
+- STEM OPT Extension website
+
+Optional Practical Training (OPT) is a benefit of the F-1 visa program that allows you to pursue experiential learning opportunities in the U.S. that directly relate to your program of study. While an OIE Designated School Official (DSO) recommends a student for OPT, the F-1 student visa holder must apply to the U.S. Citizenship and Immigration Service (USCIS) to request OPT authorization. If the OPT benefit is approved, USCIS will issue an Employment Authorization Document (EAD). Students can utilize the post-completion OPT benefit once per education level. There are three types of OPT: pre-completion OPT, post-completion OPT, and the 24-Month STEM OPT extension.
+
+OIE offers OPT workshops throughout the year to help students understand the application process, status maintenance requirements, travel expectations, and more. For the schedule, pre-recorded workshop, and join information of our upcoming virtual workshops, please click here. You are not required to have any materials prepared for the workshop, but you are encouraged to review the required OPT guidance below before attending.  Please join the event at least 5 minutes before the start time of the workshop as once the workshop begins, the advisor will close the workshop.
+
+## Eligibility Requirements
+
+- Students are eligible to apply for OPT after completing one academic year of full-time enrollment in eligible visa statuses. This means that if a student begins their academic program in a fall semester, they will be eligible for off-campus work after attending full-time fall and spring semesters. If a student begins in the spring semester, they must attend a full-time spring semester and the next fall semester before becoming eligible for OPT.
+- Students are eligible for up to 12 months of post-completion OPT once per education level.
+
+- Students become eligible for another 12 months of practical training at each higher education level. Students are ineligible for OPT at the lower education level after participating in practical training at a higher education level.
+- Students must first request an updated I-20 with an OPT recommendation from OIE before submitting their application to USCIS. Per 8 CFR 214.2(f)(11), failure to include the I-20 form with the OPT recommendation when filing the OPT application with USCIS will most likely result in the student being denied the OPT benefit by USCIS.
+- Students can apply for the post-completion OPT benefit up to 90 days before the end of the term in which they will satisfy all degree requirements and no later than 60 days after the end of term in which they meet all degree requirements.
+
+- OIE utilizes the "End of Term" as defined by the Registrar as the program end date on the I-20.
+- Students are encouraged to ensure their I-20 program end date aligns with the end of term in which they will complete all degree requirements.
+- Student must be present and inside the U.S. to file their OPT application with USCIS.
+- Students who have participated in more than 364 days or more of full-time CPT during their program are ineligible for OPT at that education level.
+- Students are not required to have a job offer to apply for OPT.
+
+## Application Process
+
+1. Watch and review our online OPT Workshop.
+2. Complete the OPT request e-forms within iStart. The OPT request e-forms must be submitted in iStart and approved by OIE staff before filing your OPT application with USCIS.
+
+- Note: OIE is responsible for reviewing eligibility for the OPT recommendation, entering this recommendation in SEVIS, providing the I-20 with OPT recommendation to the student, and supporting the student with the maintenance of status reporting requirements during OPT. OIE does not review the student's personal I-765 application. Students interested in having the I-765 application reviewed are encouraged to speak with a qualified immigration attorney who is licensed to practice immigration law and offer legal counsel on USCIS petitions.
+3. An OIE advisor will review the OPT request and respond to your request via email within the processing time communicated here: https://isss.oie.gatech.edu/content/istart-e-form-processing-times.
+4. After OIE reviews the OPT request and issues an updated I-20 with an OPT recommendation, the F-1 student visa holder must use the newly issued I-20 form with the OPT recommendation to file the I-765 application packet. Before filing your OPT application with USCIS, please review page 2 of the I-20 form to ensure the OPT recommendation is listed and the requested OPT dates are accurate. To view a sample of what the I-20 form should look like, review our document guide website.
+
+Please note that the application must be submitted to USCIS within 30 days of OIE issuing the I-20 form with the OPT recommendation. Applications filed more than 30 days after an OPT recommendation are most often denied. If it has been more than 30 days since your OPT recommendation was added and you have not yet filed your I-765 with USCIS, please contact OIE for support with receiving a new OPT recommendation.
+5. Gather the OPT application materials to file the application with USCIS. Students must first request a recommendation for OPT from OIE before filing their application to USCIS. Per 8 CFR 214.2(f)(11), failure to include the I-20 form with the OPT recommendation when filing the OPT application with USCIS will likely result in the student being denied the OPT benefit by USCIS.
+
+1. G-1145 e-Notification of Application/Petition Acceptance (This paper form is not required if you are filing your OPT application electronically with USCIS)
+
+1. Use this form to request a text and/or email when USCIS accepts your I-765. This should be the first page of your application package.
+2. US-style passport photo
+
+- Students can check with the BuzzCard Center to see if they are able to take photos. You can also visit Walgreens or CVS if you are not sure where to obtain passport style photos. Passport style photos must meet the Department of State’s photo requirements detailed on their website.
+- If filing by mail with the paper-based application it is recommended that you write your name and I-94 number on the back of two photos.
+3. Original and complete I-765 form (This paper form is not required if you are filing your OPT application electronically with USCIS)
+
+- Make sure you are using the most current edition of the I-765 form. To ensure you are using the correct version of the I-765 form, review the "Edition Date" under Form Details on USCIS's website: https://www.uscis.gov/i-765.
+- Review USCIS's instructions on how to complete the I-765 form.
+- Do not use OIE's address as your mailing address on the I-765 application. OIE is unable to receive student mail. Please write in a personal mailing address on the I-765 application.
+- If applying for pre-completion OPT, use code (c)(3)(A) in line 27. If post-completion OPT, use (c)(3)(B).
+- You are encouraged to type your answers within the I-765 PDF but you must sign the form by hand and in black ink on page 4. Electronic signatures are not accepted by USCIS. If you are filing the I-765 electronically this guidance does not apply to your application.
+4. OPT Filing Fee: Please review USCIS’s website for the filing fee amount.
+
+- If paying by check, do not use a starter check which does not contain your name and address printed on the top left corner of the check. Be sure to sign and date the check as well as put the I-94 number in the memo/”for” section. If the address is incorrect, do not cross out and change – leave it as is.
+- Students who do not have a check with a name and address should use a money order. Make sure to write your most recent I-94 # on the Money Order. Do not write on the back of your check/money order.
+- If paying with a check or money order, make payable to US Department of Homeland Security.
+- If paying filing fee by credit card (Visa, Mastercard, American Express, or Discover) and you are filing a paper application with USCIS, you must complete USCIS's Form G-1450, Authorization for Credit Card Transaction and mail with your application.
+5. New I-20 form containing your signature on page 1 and OIE's OPT recommendation on page 2. To view a sample of what the I-20 form with an OPT recommendation should look like, review our document guide website.
+
+- USCIS must receive your application within 30 of OIE making the recommendation for OPT.
+- If mailing in your application to USCIS, be sure to make a copy of your original documents. Do not mail in your original document as it will not be returned to you from USCIS.
+6. I-94 record.
+
+- If you have an electronic I-94 record, visit CBP's website and print out your most recent I-94 record. If you still have a paper I-94, include a copy of the front and back of your I-94 card. The paper I-94 card is the white card typically stapled in the passport.
+7. F-1 visa.
+
+- It is not required that the visa be valid or unexpired.
+- Those who do not have an F-1 visa because of changing status in the U.S. should include a copy of the most recent visa and the I-797 verifying F-1 status approval
+- If you are a Canadian citizen, you may enclose a copy of your citizenship card or a birth certificate & a government-issued photo ID rather than a copy of the F-1 visa.
+- If mailing in your application to USCIS, be sure to make a copy of your original documents. Do not mail in your original document as it will not be returned to you from USCIS.
+8. Biographical page of your current passport.
+
+- If mailing in your application to USCIS, be sure to make a copy of your original documents. Do not mail in your original document as it will not be returned to you from USCIS.
+9. If applicable, copies of any previous I-20 forms with OPT or CPT authorizations listed. Note, your signature is expected to be listed on page 1 on all I-20 forms.
+10. If applicable, copies of any previous EAD cards for OPT
+
+### Filing your OPT Application with USCIS
+
+After collecting your OPT application materials, you then must file your OPT application with USCIS. Remember, you can apply for post-completion OPT up to 90 days before your program end date (see definition above) and no later than 60 days after your program end date. You must also ensure that USCIS receives your application within 30 days after you receive your recommendation for OPT.
+
+#### Mailing OPT Application Packet
+
+After assembling your OPT application packet, you will need to make copies of your documents to mail to the USCIS Service Center.  Please review USCIS's website: https://www.uscis.gov/i-765-addresses, to determine where to mail the OPT application packet. You are expected to use the USCIS Service Center assigned to the mailing address you provided on the I-765 form. We encourage you to purchase tracking services when mailing your packet so that you can ensure the packet is timely delivered to USCIS.
+
+#### Filing your OPT Online
+
+On 4/12/2021, US Citizenship and Immigration Services (USCIS) announced that F-1 students seeking Optional Practical Training (OPT) can now file their form I-765 online if filing under the pre-completion, post-completion and the STEM extension categories. USCIS has advised that filing online or filing a paper application by mail should take approximately the same processing time. Please note, USCIS Online filings receipts are issued according to Coordinated Universal Time, abbreviated as UTC. This means that if you are filing your application on the last day eligible to file, your receipt will be issued based on the UTC time zone which may differ from the time zone in which you reside.
+
+USCIS has not yet published any detailed guidance on filing the I-765 form online. Students who choose to file online should read all screens completely and thoroughly and ensure they progress through the form one field at a time. Additional information may be requested as you answer questions, so it is important not to skip fields and sections of the form.  The system allows you to submit your application without all the required documents, which can lead to requests for evidence and additional difficulties. This means you must be very careful to ensure that everything is included before submitting the online application. If you choose to file the I-765 electronically, be sure to upload the I-20 with OPT recommendation in your application.
+
+#### Premium Processing
+
+On Monday, March 6, 2023, US Citizenship and Immigration Services (USCIS) announced that F-1 students seeking Optional Practical Training (OPT) can request premium processing. Premium processing means that for an additional, substantial fee, USCIS will provide an expedited review and adjudication of an application. Before deciding to utilize this option, OIE encourages students to review the current wait times with USCIS as premium processing may not be necessary. For more information about the guaranteed timing when using premium processing, the application process, and the filing fee amount, please review USCIS's website.
+
+### After USCIS Receives Your OPT Application
+
+USCIS will receipt your I-765 application and notify you electronically and via regular mail service utilizing the I-797C receipt notice. You can expect to receive the paper receipt notice within 2-3 weeks of USCIS receiving your OPT request. Those that file their OPT application online can expect to receive their receipt notification immediately after filing. Review your personal information listed on the receipt notice - your name and mailing address - to ensure accuracy. If you need to update information with USCIS, follow the instructions provided on the receipt notice by USCIS or call the USCIS National Customer Service Center at 1-800-375-5283.
+
+#### USCIS Timing
+
+Review USCIS’s case processing times page to find out more about the expected processing time for your application.  If you believe your case is outside normal processing time, you can submit an inquiry to USCIS regarding the status of your application. If USCIS receives your Post-Completion OPT request and needs additional information, the following may occur:
+
+- USCIS issues request for evidence (RFE)
+
+- USCIS may determine that additional information is necessary in order to adjudicate your request. USCIS will stop the processing of your application and issue a letter or Request for Evidence (RFE) explaining what additional documentation is required. USCIS will communicate a deadline for when you must respond with the additional support documentation. If you do not provide the requested evidence by the deadline, USCIS will deny your OPT application. Once USCIS receives the additional information, an officer will resume the processing of your petition and the “processing clock” will resume.
+- OPT application is rejected by USCIS
+
+- If your application is rejected by USCIS, USCIS will return your OPT packet along with a letter explaining the reason for the rejection. In this scenario, your OPT packet will not be receipted by USCIS. Please contact OIE and provide a copy of the rejection letter. OIE will assist you with understanding the reason for the rejection and provide guidance on eligibility for refiling the I-765 request. Please note, if you receive the rejection notice after your filing window for OPT, you may no longer be eligible to apply for the OPT benefit.
+
+If you receive an RFE, rejection/denial, or if there is an issue with your EAD card, please report this to OIE using the "Report OPT Issue" e-form found in iStart under the "4. OPT (Optional Practical Training)" section.
+
+### Maintenance of F-1 Status on OPT
+
+Maintenance of status is the responsibility of the F-1 student visa holder at all times while inside the U.S. The information below provides a reminder of some of the requirements to maintain status, but is not intended to cover every scenario. If you have a question about maintenance of status, it is your responsibility to seek out guidance from OIE or a qualified immigration attorney.
+
+Per 8 CFR 214.2(f)(10)(ii)(A), F-1 student visa holders may not begin Optional Practical Training (paid, unpaid, or voluntary employment) until the start date indicated on his or her employment authorization document (EAD) and until the EAD has been received by the student. Again, you cannot begin any kind of volunteering, paid employment, or unpaid employment before receiving your OPT EAD card, nor prior to the start date listed on your OPT EAD card. F-1 student visa holders in violation of 8 CFR 214.2 (f)(10)(ii)(A) are in violation of status and subject to termination of their SEVIS record. If you begin working before receiving your EAD card or before the start date listed on your EAD card, your F-1 SEVIS record will be terminated for unauthorized employment. You would then be ineligible to continue working on OPT and you would be expected to depart the U.S. immediately. Unauthorized employment also jeopardizes your eligibility for future employment benefits such as the 24-Month STEM Extension and the H-1B visa.
+
+Once you have obtained your EAD card and you are in your authorized period of OPT employment, you are expected to work a minimum of 20 hours per week in a position related to your field of study. You are permitted up to 90 days of unemployment during your post-completion OPT benefit. The unemployment days begin accruing if you do not have any employment from the approved OPT start date listed on your EAD card. OIE advises that if you are close to reaching the 90 day limit of unemployment, you depart the U.S. or seek one of the options listed below- in the Options after OPT section- prior to reaching the 90 day limit of unemployment. Remember, you are required to report employment and changes to your contact information within 10 days of any change. OPT participants that do not report their employment information will be seen as unemployed within their immigration record. The SEVIS immigration system automatically terminates any OPT participants that accrue or exceed the 90 day limit of unemployment for those on post-completion OPT.
+
+Please note, since you will not be a student while on OPT, you will no longer be enrolled in an insurance plan and should seek personal medical insurance. Please see our Health Insurance after Graduation website for more information.
+
+The U.S. government regulatory guidance on whether degree study is permissible while concurrently participating in a period of Post-Completion OPT is limited. The guidance that is available states that full-time degree study is not permissible, but part-time degree study and avocational study, e.g., basket weaving is permissible. Please note that United States Citizenship and Immigration Services guidance shares that an OPT authorization is automatically terminated if an F-1 student transfers to another school or begins a new degree level. For this reason, OIE cautions F-1 student visa holders engaging in OPT to limit their enrollment to part-time enrollment or avocational studies during the OPT period. F-1 students interested in resuming full-time degree study will need to transfer to a new institution or complete the change of level process with OIE.
+
+### Reporting Requirements for Maintaining Status
+
+When employed, all students on OPT are required to report the following updates to an International Student Advisor using iStart.gatech.edu. Instructions on how to update your OPT employer information is located here. To learn what types of employment are allowed while on OPT, click here.
+
+- Change of name (use Personal Information Update e-form through iStart)
+- Changes to U.S. and foreign addresses (use Personal Information Update e-form through iStart)
+- Name of employer, and any change of name of employer (iStart)
+- Address of employer, and any change of address of employer (iStart)
+- Interruption of such employment (iStart)
+
+To report your employment or unemployment information, log into iStart and complete the OPT Personal Contact /  Employment Update e-form found under the OPT tab.
+
+If you cannot log into iStart using your current Georgia Tech ID# or password please contact OIT for GT log-in support.   If you continue to have issues please contact us at info@oie.gatech.edu.
+
+### SEVP Portal
+
+The SEVP Portal is an optional tool that F-1 student visa holders on Post-Completion Optional Practical Training (OPT) or STEM OPT Extension can use to report certain personal and employment changes. While the SEVP Portal is optional, you are required to continue reporting updates to OIE via iStart.
+
+After your OPT application has been approved by USCIS, you will receive an automated email from SEVP prompting you to create an SEVP Portal account.
+
+Many students who have used the SEVP Portal have reported experiencing technical glitches and/or received erroneous emails about their OPT employment status not pertaining to their current OPT employment. We encourage you to ensure you are reporting the information to OIE and then use the SEVP portal to review the information entered by an OIE advisor.
+
+If you continue to have challenges using the SEVP portal, please review SEVP Resources and contact information.
+
+### OPT and Traveling Abroad
+
+F-1 Regulations allow students participating in OPT to travel abroad, but there may be additional risks and/or additional documentation to prepare. Visit the OIE's OPT and Traveling Abroad website for more information.
+
+### Options After Post-Completion OPT
+
+Whether you utilize all of your OPT or choose not to utilize your full Post-Completion OPT authorization, please complete the End Post-Completion OPT e-form found in iStart to notify OIE your plans.
+
+#### Change of Level
+
+If you choose to return to Georgia Tech to pursue another degree, complete the Change of Level e-form found in iStart to report your plans to OIE. Here are some timing considerations on when to complete your "Change of Degree Level" e-form:
+
+- You can submit the "Change of Degree Level" e-form while working on OPT and once you've been admitted into the new degree program.
+- You must complete the "Change of Degree Level" e-form prior to the start of the term you intend to begin the new degree. AND
+- You must complete the "Change of Degree Level" e-form within the 60 day grace period of your post-completion OPT end date. AND
+- If you are not employed while on Post-Completion OPT and intend to complete the "Change of Degree Level" e-form in order to end your unemployment days, then you must submit the request prior to reaching 90 days of unemployment.
+- If you are going to travel internationally after ending your OPT, you will need your new Change of Level I-20 form in order to re-enter the U.S.
+- After starting the new degree program, any unused time remaining on the OPT EAD authorization becomes invalid.
+
+#### Transferring Your SEVIS Record
+
+If you are admitted to a U.S. institution while you are on OPT or during the 60 day grace period after your OPT, it is possible to request the transfer of your SEVIS record. Whether your record would be eligible for transfer will depend on important factors such as when you would be starting your studies at the new institution and whether you have been employed or unemployed during your OPT period. To request the transfer of your SEVIS record, please complete the "End OPT" e-form request within your iStart Student Portal.
+
+#### Change of Status
+
+If you are considering remaining in the U.S. during your OPT or within your 60 day grace period in another visa status, you can apply for a change of visa status under the guidance of a qualified immigration attorney. If you change visa status while on OPT, complete the "End OPT" e-form in iStart.
+
+Important Note: If an H-1B application was filed on your behalf and you have decided to abandon the change of status and instead remain in F-1 status, you need to obtain the documentation that shows the H-1B application was withdrawn prior to the H-1B taking effect. It is likely that your F-1 record will auto-complete due to the change of status application being on your F-1 SEVIS record. In order for OIE to file a correction to have your F-1 SEVIS record returned to active status, you must obtain proof that the withdrawal of the application was done prior to it taking effect, and you must have official documentation from USCIS acknowledging the withdrawal.
+
+#### 24-Month STEM OPT Extension
+
+Students that have studied in a STEM eligible field, may be eligible to extend their OPT benefit for 24 months. OIE encourages you to visit our OPT STEM Resources webpage to learn more about eligibility requirements, the application process, reporting requirements, and other related aspects of the extension. Once a student's post-completion OPT end date has passed, the student is no longer eligible to apply for the OPT STEM extension.
+
+#### H1B and the Cap Gap Extension
+
+While on OPT, your employer may choose to file an H1B visa application on your behalf. If your OPT expires prior to the start of the H1B, you may be eligible for the Cap-Gap Extension. The Cap-Gap is a benefit that is automatically applied to students’ immigration records and will be reflected once the H1B petition is receipted by USCIS. We encourage you to visit Study in the States website to review eligibility requirements for the cap-gap. If you believe you are eligible for this benefit, complete the "Cap-Gap I-20 Request" e-form in iStart .
+
+If an H1B application is filed in your name, you are encouraged to contact us to discuss your responsibilities for maintaining your F-1 status. We also encourage you to speak with a qualified immigration attorney.
+
+Important Note: If an H-1B application was filed on your behalf and you have decided to abandon the change of status and instead remain in F-1 status, you need to obtain the documentation that shows the H-1B application was withdrawn prior to the H-1B taking effect. It is likely that your F-1 record will auto-complete due to the change of status application being on your F-1 SEVIS record. In order for OIE to file a correction to have your F-1 SEVIS record returned to active status, you must obtain proof that the withdrawal of the application was done prior to it taking effect, and you must have official documentation from USCIS acknowledging the withdrawal.
+
+#### 60 Day Grace Period
+
+If none of the above options are applicable to you, at the end of your OPT period, the U.S. government provides a 60-day grace period where you are eligible to remain inside the U.S. You must depart the U.S. no later than the 60th day after your OPT end date in order to avoid visa overstay penalties. During the 60-day grace period you are ineligible to travel internationally and re-enter on your F-1 record.
+
+### Optional Practical Training Resources:
+
+- Virtual F-1 OPT Workshop
+- Study in the States: Information about OPT.
+- USCIS's Website: Information about OPT
+- USCIS's Website: I-765 Form
+- Tips for F-1 OPT students filing I-765
+- Eligible employment types while on OPT
+- OPT Travel Information
+- Have more questions about OPT? Review our OPT FAQ page.
+- To learn more about the 24-Month STEM OPT Extension, please visit our STEM OPT Extension website.
+
+### OIE Practical Training Fee
+
+The Office of International Education will collect a $35 fee each time an international student holding an F or J student visa receives practical training benefits in the form of Curricular Practical Training (CPT), Optional Practical Training (OPT) or Academic Training (AT). Student e-forms submitted to the OIE for review after June 15, 2017 will be required to show evidence of PTF payment. Specific instructions for paying the fee will be include in the respective eform.
+
+For more specific information about the PTF, please visit OIE's website: /isss/ptf
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

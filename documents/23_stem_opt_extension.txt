@@ -1,0 +1,314 @@
+Source: STEM OPT Extension
+URL: https://isss.oie.gatech.edu/content/stem-opt-extension
+
+# STEM OPT Extension
+
+## STEM Overview
+
+The 24-month STEM OPT extension is a period of temporary training that directly related to an F-1 student visa holder's program of study in an approved STEM field. On May 10, 2016, this extension effectively replaced the previous 17-month STEM OPT extension.
+
+F-1 student visa holders with STEM degrees participating in the initial period of regular post-completion OPT (often for 12 months) have the option to apply for a STEM OPT extension.
+
+Navigation
+
+- Eligibility for 24-Month STEM OPT Extension
+- STEM Eligible Majors at Georgia Tech
+- How to Apply
+- After USCIS Receives Your STEM OPT Application
+- Employment Options
+- Reporting Requirements
+- SEVP Portal
+- Options After STEM OPT
+- Change of Status to H1-B
+- International Travel and OPT
+- Employer Resources
+- FAQ
+
+## ELIGIBILITY FOR 24-MONTH STEM OPT EXTENSION
+
+F-1 student visa holders must meet the following eligibility requirements to apply for the 24-Month STEM Extension of OPT:
+
+- Currently in a period of Active Post-Completion OPT
+- Employed at least 20 hours a week in a paid position by an E-Verify employer
+- Must have completed degree requirements or are lacking only the completion of the thesis in a STEM eligible degree program
+
+See Frequently Asked Questions (FAQ) below for more information about conditions and limitations of the 24-Month OPT STEM Extension.
+
+## STEM Eligible Majors at Georgia Tech
+
+The STEM Designated Degree Program List consists of select fields in Science, Technology, Engineering, and Mathematics (STEM), as identified by the field's CIP (Classification of Instructional Programs) Code. CIP codes are codes determined by the federal government and the University System of Georgia to ensure that programs of study are classified correctly for all international F-1 student visa holders; this is the reason the name of major on your I-20 may not always match the name of the major at Georgia Tech.
+
+How to determine STEM eligible majors @ Georgia Tech
+
+1. Review the Board of Regents Authorized Majors and Degrees website to find your degree's CIP code.
+2. Review the list of STEM eligible majors and CIP Codes.
+3. Compare the CIP code from the Board of Regents' website with the CIP code on the ICE (Immigration and Customs Enforcement) STEM Eligible list. If the CIP code from step #1 matches a CIP code in step #2, then your major is eligible for the OPT STEM Extension.
+
+If the CIP codes do not match, you may not be eligible for the OPT STEM Extension. Please contact ISSS (International Student and Scholar Services) to confirm eligibility or if you have additional questions about the eligibility of your major.
+
+If you do not see your major listed and believe you may be eligible for the STEM OPT Extension, please contact our office at info@oie.gatech.edu and we can confirm.
+
+## How to Apply
+
+F-1 student visa holders must submit a timely filed 24-Month STEM Extension of OPT  I-765 application to USCIS in order to continue employment eligibility and obtain the 24 Month STEM OPT Extension Employment Authorization Document. 12 Month Post-Completion OPT participants are eligible to apply for the 24 Month STEM OPT Extension 90 days before the 12-Month Post-Completion OPT Employment Authorization Document end date. The I-765 application and supporting documentation must be submitted to USCIS no later than the 12-month Post-Completion OPT Employment end date.
+
+STEP 1: Be informed about the 24 Month OPT STEM Extension process and participant responsibilities.
+
+Review OIE STEM OPT resources to understand the application process and your reporting responsibilities.
+
+STEP 2:  Work with your supervisor to complete the Form I-983 Training Plan
+
+For full details, you can see the tutorial on Study in the States’ website: https://studyinthestates.dhs.gov/stem-opthub.
+
+- “SEVIS School Code for School Recommending STEM OPT” – GT’s code is: ATL214F00102000
+- “Name of School Recommending STEM OPT” – Georgia Institute of Technology
+- “Designated School Official (DSO) Name and Contact Information”
+
+- Georgia Tech DSO
+
+- OIE asks that you list "Georgia Tech DSO" so that in the event GT needs to be contacted, any DSO can respond on your behalf
+- 631 Cherry St., Savant Suite 211 Atlanta, GA 30332-0284
+- 404-894-7475
+- info@oie.gatech.edu
+- “STEM OPT Requested Period” – For the start date, list the day after your post-completion OPT end date.
+- “Qualifying Major and Classification of Programs (CIP) Code” – List your major and the CIP code listed next to your major in the “Program of Study” box located on the first page of your I-20.
+- Page 2, Section 3 "Start Date of Employment" -- Write the first date of your STEM OPT period, not the original start date of your employment.
+
+F-1 student visa holders filing a request for the 24 Month STEM OPT Extension are not required to complete the I-983 section entitled “Evaluation on Student Progress or Final Evaluation on Student Progress.” Review the 24 Month STEM Extension Reporting Requirements outlined below for more information on when to submit this section.
+
+All questions on I-983 must be answered clearly and completely.
+
+SEVP accepts electronic signatures on the I-983 in the following formats:
+
+- Electronic signatures using software programs or applications. Students and employers may sign all signature fields on the Form I-983 using electronic signatures produced with software programs or applications.
+- Electronically reproduced copies of a signature. Students and employers may sign all signature fields on the Form I-983 using digitally reproduced copies of a signature. A digitally reproduced copy may be a scanned image of a physical signature.
+
+Incomplete forms will not be accepted and may delay the processing of your STEM OPT extension application.
+
+STEP 3: Obtain a new I-20 with the 24 Month STEM OPT Extension recommendation from OIE via iStart.
+
+Complete the STEM Extension Request e-forms in iStart. F-1 student visa holders, not their employer or company attorney, must submit this e-form. Carefully follow the instructions on the e-form to avoid processing delays. Upon receiving a complete e-form request and within the established processing times, a 24 Month STEM OPT Extension recommendation will be issued by a DSO. You will receive a new I-20 form with the 24 Month OPT STEM Extension recommendation and important reminders.  To view a sample of what the I-20 form should look like, review our document guide website.
+
+You must file your OPT STEM Extension application with USCIS within 60 days of receiving your  I-20 form with the 24 Month OPT STEM Extension recommendation from OIE and before your post-completion OPT end date.
+
+STEP 4:  Complete the USCIS Application Materials
+
+You will need to gather the following application materials and submit them to USCIS to apply for the STEM OPT extension:
+
+- G-1145 e-Notification of Application/Petition Acceptance: Use this form to request a text and/or email when USCIS accepts your I-765. This should be the first page of your application package.
+- Filing fee: Include a check or money order for the I-765 filing fee made payable to US Department of Homeland Security. Please review USCIS’s website for the filing fee amount. If using a check or money order payable to “US Department of Homeland Security.” If paying with a credit card, you must complete Form G-1450, Authorization for Credit Card Transaction and mail this with your application.
+- Original I-765 form completed by you with your original signature (in black ink): Use the most current version available from USCIS I-765 website since older versions are not acceptable. Note that the mailing address you use must be valid for at least 3 months from the time you send the application. The US Postal Service does not forward EAD (Employment Authorization Document) cards. For instructions on how to fill out the I-765, please refer to the USCIS I-765 website.
+- Enter the correct eligibility category: STEM OPT extension (c)(3)(C)
+- Photocopy (not original) of I-20 with the STEM OPT recommendation on page 2: You must obtain your new I-20 from OIE with the 24 Month STEM OPT Extension recommendation before you can proceed with this application. NOTE: Sign the I-20 on page 1 before copying it.
+- STEM Eligible Degree: Include evidence that the degree that is the basis for the 24 STEM OPT Extension is in one of the degree programs currently listed on the STEM Designated Degree Program List. This can include an official final transcript or a copy of the STEM Eligible diploma.
+- I-94: I-94 record or front and back of paper record (if applicable).
+- Photocopy of the most recent identification page(s) of your passport: These are the page(s) which contain the picture, number, and expiration date.
+- F-1 Visa: Photocopy of the most recent F-1 visa stamp in your passport.  For F-1 student visa holders with a Change of Status inside the US, please provide a copy of your I-797 Approval notice.
+- Two recent passport-style photos: In pencil, print your name and I-94 number on the back of each photo.
+- Copy of any previously issued EAD card(s).
+
+## Filing your STEM OPT Application with USCIS
+
+After collecting your STEM OPT application materials, you then must file your STEM OPT application with USCIS. Remember, USCIS must receive your application within 60 days after you receive your recommendation for STEM OPT.
+
+#### Mailing STEM OPT Application Packet
+
+After assembling your STEM OPT application packet, you will need to make copies of your documents to mail to the USCIS Service Center.  Please review USCIS's website: https://www.uscis.gov/i-765-addresses, to determine where to mail the STEM OPT application packet. You are expected to use the USCIS Service Center assigned to the mailing address you provided on the I-765 form. We encourage you to purchase tracking services when mailing your packet so that you can ensure the packet is timely delivered to USCIS.
+
+#### Filing your STEM OPT Online
+
+On 4/12/2021, US Citizenship and Immigration Services (USCIS) announced that  F-1 student visa holders seeking Optional Practical Training (OPT) can now file their form I-765 online if filling under the pre-completion, post-completion and the STEM extension categories. For the full news release, please visit the USCIS website. USCIS has advised that filing online or filing a paper application by mail should take approximately the same processing time. Please note, USCIS Online filings are governed by Coordinated Universal Time, abbreviated as UTC. This means that if you are filing your application on the last day eligible to file, you must take this into consideration.
+
+USCIS has not yet published any detailed guidance on filing the I-765 form online. F-1 student visa holders who choose to file online should read all screens completely and thoroughly and ensure they progress through the form one field at a time. Additional information may be requested as you answer questions, so it is important not to skip fields and sections of the form.  The system allows you to submit your application without all required documents, which can lead to requests for evidence and additional difficulties. This means you must be very careful to ensure that everything is included before submitting the online application. If you choose to file the I-765 electronically, be sure to upload the I-20 with OPT recommendation in your application.
+
+#### Premium Processing
+
+On Monday, March 6, 2023, US Citizenship and Immigration Services (USCIS) announced that F-1 students seeking Optional Practical Training (OPT) can request premium processing. Premium processing means that for an additional, substantial fee, USCIS will provide an expedited review and adjudication of an application. Before deciding to utlize this option, OIE encourages students to review the current wait times with USCIS as premium processing may not be necessary. For more information about the guaranteed timing when using premium processing, the application process, and the filing fee amount, please review USCIS's website.
+
+## After USCIS Receives Your STEM OPT Application
+
+USCIS will receipt your I-765 application and notify you electronically and via regular mail service utilizing the I-797C receipt notice. You can expect to receive the paper receipt notice within 2-3 weeks of USCIS receiving your STEM OPT request. Those that file their STEM OPT application online can expect to receive their receipt notification immediately after filing. Review your personal information listed on the receipt notice - your name and mailing address - to ensure accuracy. If you need to update information with USCIS, follow the instructions provided on the receipt notice by USCIS or call the USCIS National Customer Service Center at 1-800-375-5283.
+
+If you file your STEM OPT extension application on time and your OPT period expires while your extension application is pending, USCIS will automatically extend your employment authorization for 180 days. This automatic 180-day extension ceases once USCIS adjudicates your STEM OPT extension application. See USCIS website here: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students.
+
+USCIS Timing
+
+USCIS processes most STEM OPT applications within 90 days of the receipt notice. While most cases are processed within 90 days, there is a chance your application could take longer. Please review USCIS’s case processing times page to find out more about the expected processing times for your application.  If you believe your case is outside normal processing time, you can submit an inquiry to USCIS regarding the status of your application. If USCIS receives your STEM OPT request and needs additional information, the following may occur:
+
+- USCIS issues request for evidence (RFE)
+- USCIS may determine that more information is necessary to adjudicate your request. USCIS will stop the processing of your application and issue a letter or Request for Evidence (RFE) explaining what additional documentation is required. USCIS will communicate a deadline for when you must respond with the additional support documentation. If you do not provide the requested evidence by the deadline, USCIS will deny your STEM OPT application. Once USCIS receives the additional information, an officer will resume the processing of your petition and the “processing clock” will resume.
+- STEM OPT application is rejected by USCIS
+- If your application is rejected by USCIS, USCIS will return your STEM OPT packet along with a letter explaining the reason for the rejection. In this scenario, your STEM OPT packet will not be receipted by USCIS. Please contact OIE and provide a copy of the rejection letter. OIE will assist you with understanding the reason for the rejection and provide guidance on eligibility for refiling the I-765 request. Please note, if you receive the rejection notice after your filing window for STEM OPT, you may no longer be eligible to apply for the STEM OPT benefit.
+
+## Employment Options
+
+STEM OPT Employment Requirements:
+
+Types of employment not allowed
+Volunteer/Unpaid work Self-Employment Part-time employment. Students must work 20 hours or more per week. Employment through employment agencies ** please read below for additional clarification
+
+Multiple Jobs on STEM OPT Extension
+
+The Department of Homeland Security anticipates that this will be very unusual, though not expressly prohibited, for F-1 student visa holders to work with more than two employers at the same time during the STEM OPT Extension period, given that each employer must fully comply with the requirements of this rule and employ the student for no less than 20 hours per week.
+
+Start-ups and the STEM OPT Extension
+
+The official communication states that the employment "Must be a Bonafide employer and employee relationship." If you have a start-up there must be someone in the company that can serve as a supervisor and train you in the STEM field, you have studied as part of your work. The company must also fit all the government requirements to be a STEM OPT eligible employer (Employer adheres to training plan requirements, remains in good standing with E-Verify, will provide compensation to the STEM OPT student commensurate to that provided to similarly situated U.S. workers, and has the resources to comply with the proposed training plan).
+
+Guidance on Staffing or Temp Agencies:
+
+F-1 student visa holders can find training opportunities with help from a temporary or staffing agency. However, all STEM OPT regulatory requirements must still be maintained. If a student uses a temporary or staffing agency, the student should take extra care in understanding who should properly complete the Form I-983. Only the E-Verified employer that provides the actual training relevant to the student's STEM degree is authorized to sign and complete Form I-983. SEVP provided additional context related to staffing agencies on the Study in the States website here (Page 4, Question 7)
+
+Find Additional Guidance from the Department of Homeland Security Here!
+
+Unemployment Time Allowed:
+
+F-1 student visa holders who are granted the 24-month STEM extension must not exceed 150 cumulative days of unemployment during the 36-month OPT period (original 12-month OPT + 24-month STEM OPT extension).
+
+## Reporting Requirements
+
+In addition to the regular OPT reporting requirements, there are additional reporting requirements for F-1 student visa holders approved for a 24-month STEM OPT extension.
+
+On-Going Reporting Requirements for STEM OPT F-1 student visa holders
+
+All F-1 student visa holders on OPT are required to report the following using iStart.gatech.edu within 10 days of the change:
+
+- Change of name and/or e-mail address (use Personal Information Update e-form through iStart)
+- Changes to U.S. and foreign addresses (use Personal Information Update e-form through iStart)
+- Name of employer, and any change of name of employer (iStart)
+- Job title/position, and any change of job title (iStart)
+- Name of direct supervisor, and any change of name/contact info of supervisor (iStart)
+- Address of employer, and any change of address of employer (iStart)
+- Interruption of such employment (iStart)
+
+Reporting Requirements Unique to the 24-Month STEM Extension of OPT
+
+F-1 student visa holder: STEM OPT F-1 student visa holders must regularly check in with ISSS throughout the duration of the extension to validate employment information, and to report changes made to the I-983 Training Plan. Verification and changes can be submitted using the e-forms below in iStart.
+
+Employment Verification and Evaluation E-forms in iStart
+
+- 6 Month Verification: submission of this e-form is required every 6 months, based on your STEM OPT extension start date, to maintain STEM employment eligibility. Use this e-form to confirm employment, not to submit changes to employment. F-1 student visa holders participating in the STEM extension will be emailed as the 6-month reporting date approaches. However, it is recommended that you schedule personal reminders on your calendar to ensure compliance with U.S. government requirements.  to set personal reminders to ensure compliance.
+- 12 Month Evaluation: submission of this e-form is required after completing 12 months of the STEM OPT Extension. Within the iStart form, F-1 student visa holders must submit the Evaluation on Student Progress section of the I-983 training plan. This evaluation should consider any/all work performed during the first 12 months of the STEM OPT Extension. Click here for more info.
+- Final Evaluation: Submission of this e-form is required after
+- ending employment;
+- ending the STEM Extension period/F-1 status prior to reaching the full term;
+- or ending the full 24-month STEM OPT Extension.
+
+Within the iStart form, F-1 student visa holders must submit the Final Evaluation on Student Progress section of the I-983 training plan. This evaluation should consider any/all work performed during the entirety of the student's STEM OPT Extension period, or the entirety of a student's time at an employer (if submitting this form after leaving an employer). Click here for more info.
+
+Employment Update E-forms
+
+- Minor Employment Update: report minor changes to employment, such as office address or supervisor contact information using this e-form.
+- Material Change to Employment: submit this e-form to report the ending of a job, starting a new job, or significant change has occurred to current employment. Click here for "material change" guidelines.
+
+Other Changes that Require Reporting for STEM OPT F-1 student visa holders
+
+- Cap Gap Extension: If your employer submits an H1-B application on your behalf, you may be eligible for a Cap-Gap extension.  For more information and to request a Cap-Gap I-20, complete the "Cap-Gap I-20 Request" eform under the STEM OPT Extension e-form in iStart.
+- Change of Status: If you change visa status while in your STEM OPT period, complete the "Final Evaluation (24 Months of STEM)" eform in iStart even if you have not yet reached your full term of STEM OPT extension period.
+- Depart the U.S: If you plan to depart the U.S. and DO NOT plan to return to use your OPT, complete the "Final Evaluation (24 Months of STEM)" eform in iStart even if you have not yet reached your full term of STEM OPT extension period.
+- Transfer to another U.S. institution or start a new degree program at Georgia Tech: If you plan to start a new degree program at another U.S. university or at Georgia Tech, complete the "Final Evaluation (24 Months of STEM)" eform in iStart even if you have not yet reached your full term of STEM OPT extension period.
+
+### SEVP Portal
+
+- On March 23, 2018, the Student and Exchange Visitor Program (SEVP) launched the SEVP Portal. The SEVP Portal is an optional tool that F-1 student visa holders on Post-Completion Optional Practical Training (OPT) or STEM OPT Extension can use to report certain personal and employment changes. While the SEVP Portal is optional, you are required to continue reporting updates to OIE via iStart.
+- After your OPT application has been approved by USCIS, you will receive an automated email from SEVP prompting you to create an SEVP Portal account.
+- Many students who have used the SEVP Portal have reported experiencing technical glitches and/or received erroneous emails about their OPT employment status not pertaining to their current OPT employment. We encourage you to ensure you are reporting the information to OIE and then use the SEVP portal to review the information entered by an OIE advisor.
+
+### Options After STEM OPT
+
+Whether you utilize all of your OPT or whether you choose to not utilize your full STEM OPT authorization, please complete the “Final Evaluation (24 months of STEM)” e-form found in iStart to notify OIE your plans.
+
+#### Transferring Your SEVIS Record:
+
+If you are admitted to a U.S. institution while you are on OPT or during the 60 day grace period after your OPT, it is possible to request the transfer of your SEVIS record. Whether your record would be eligible for transfer will depend on important factors such as when you would be starting your studies at the new institution and whether you have been employed or unemployed during your OPT period. To request the transfer of your SEVIS record, please complete the “Final Evaluation (24 months of STEM)” e-form within your iStart Student Portal.
+
+#### Change of Level
+
+If you choose to return to Georgia Tech to pursue another degree, complete the Change of Level e-form found in iStart to report your plans to OIE. Here are some timing considerations on when to complete your "Change of Degree Level" e-form:
+
+- You can submit the "Change of Degree Level" e-form while working on OPT and once you've been admitted into the new degree program.
+- You must complete the "Change of Degree Level" e-form prior to the start of the term you intend to begin the new degree. AND
+- You must complete the "Change of Degree Level" e-form within the 60 day grace period of your STEM OPT end date. AND
+- If you are not employed while on STEM OPT and intend to complete the "Change of Degree Level" e-form in order to end your unemployment days, then you must submit the request prior to reaching 150 days of unemployment.
+- If you are going to travel internationally after ending your OPT, you will need your new Change of Level I-20 form in order to re-enter the U.S.
+- After starting the new degree program, any unused time remaining on the OPT EAD authorization becomes invalid.
+
+#### Change of Status:
+
+If you are considering remaining in the U.S. during your OPT or within your 60 day grace period in another visa status, you can apply for a change of visa status under the guidance of a qualified immigration attorney. If you change visa status while on OPT, complete the “Final Evaluation (24 months of STEM)” e-form in iStart
+
+#### H1B and the Cap Gap Extension:
+
+While on OPT, your employer may choose to file an H1B visa application on your behalf. If your OPT expires prior to the start of the H1B, you may be eligible for the Cap-Gap Extension. The Cap Gap is a benefit that is automatically applied to students’ immigration records and will be reflected once the H1B petition is receipted by USCIS. We encourage you to visit Study in the States website to review eligibility requirements for the cap-gap. If you believe you are eligible for this benefit, complete the "Cap-Gap I-20 Request" e-form in iStart. If an H1B application is filed in your name, you are encouraged to contact us to discuss your responsibilities for maintaining your F-1 status. We also encourage you to speak with a qualified immigration attorney.
+
+#### 60 Day Grace Period:
+
+If none of the above options are applicable to you, at the end of your OPT period, the U.S. government provides a 60-day grace period where you are eligible to remain inside the U.S. You must depart the U.S. no later than the 60th day after your OPT end date in order to avoid visa overstay penalties. And you must submit your “Final Evaluation (24 months of STEM)” e-form in iStart to complete your STEM OPT reporting and provide the final evaluation on your I-983 training plan. During the 60-day grace period you are ineligible to travel internationally and re-enter on your F-1 record.
+
+## Change of Status to H-1B
+
+While on OPT/STEM OPT, your employer may choose to file an H1B visa application on your behalf. If your OPT/STEM OPT expires before the H1B starts, you may be eligible for the Cap-Gap Extension. The Cap-Gap is a benefit that is automatically applied to F-1 student visa holders’ immigration records and will be reflected once the H1B petition is received by USCIS. We encourage you to visit Study in the States website to review eligibility requirements for the cap-gap. If you believe you are eligible for this benefit, complete the "Cap-Gap I-20 Request" eform in iStart .
+
+If an H1B application is filed in your name, you are encouraged to contact us to discuss your responsibilities for maintaining your F-1 status. We also encourage you to speak with a qualified immigration attorney.
+
+Important Note: If an H-1B application was filed on your behalf and you have decided to abandon the change of status and instead remain in F-1 status, you need to obtain the documentation that shows the H-1B application was withdrawn prior to the H-1B taking effect. It is likely that your F-1 record will auto-complete due to the change of status application being on your F-1 SEVIS record. In order for OIE to file a correction to have your F-1 SEVIS record returned to active status, you must obtain proof that the withdrawal of the application was done prior to it taking effect, and you must have official documentation from USCIS acknowledging the withdrawal.
+
+## International Travel and OPT
+
+According to Student Exchange Visitor Program’s guidance, F-1 student visa holders participating in post-completion OPT/STEM OPT may travel abroad while the OPT/STEM OPT application is pending. However, travel during this period should be undertaken with caution for the following reasons:
+
+1. If a request for evidence (RFE) is issued, the document is mailed to the U.S. mailing address provided in the OPT/STEM OPT application to USCIS. An RFE is a time sensitive request that requires the immediate attention of the applicant.
+2. If the OPT/STEM OPT application is rejected or denied it is important to be in the U.S. to refile the OPT/STEM OPT application within the acceptable filing period.
+3. If a post-completion OPT applicant is outside of the U.S. past their I-20 program date at the time of the rejection/denial, then it would not be possible to re-enter in F-1 status and the F-1 status would be ended. For applicants inside the U.S., it is not possible to file for post-completion OPT after the end of the 60-day grace period (which begins from the I-20 program end date).
+4. If a STEM OPT applicant is outside of the U.S. past their post-completion OPT end date at the time of the rejection/denial, then it would not be possible to re-enter in F-1 status and the F-1 status would be ended. For applicants inside the U.S., it is not possible to file for STEM OPT after the post-completion OPT end date.
+5. If your OPT is approved and the new EAD is issued while you are traveling, it is possible for Customs and Border Protection (CBP) to require ]the new EAD upon re-entry to the U.S.
+
+While on OPT, travel signatures are valid for 6 months. Please review our website for more information:  https://isss.oie.gatech.edu/content/opt-and-traveling-abroad
+
+F-1 student visa holders who decide to travel while the OPT application is pending are highly discouraged from leaving the U.S until the application has been received by USCIS and the I-797 receipt notice has been issued. F-1 student visa holders bring the receipt notice with them as proof that an application has been submitted. Although the receipt notice is a good substitution, admission into the U.S. is up to the discretion of the CBP officer, and there have been reports ofF-1 student visa holders EAD work permit having problems at the port of entry.
+
+## Employer Resources
+
+The Department of Homeland Security has a STEM OPT Hub located on its Study in the States website. Included in the STEM OPT Hub is a section for employers that features information on topics such as the I-983 training plan, employer reporting requirements, and employer site visits. This information can be located on the Study in the States website here.
+
+## FAQ
+
+Q. Which dates can I choose for the 24-Month OPT STEM Extension?
+
+A. F-1 student visa holders are not able to choose dates for the 24-Month OPT STEM Extension because these dates are automatically generated by the Student and Exchange Visitor Information System (SEVIS). The 24-Month STEM Extension OPT start date will be the day after the 12-Month Post Completion OPT end date.
+
+Q. How many 24-Month OPT STEM Extensions can I request while studying in the U.S.?
+
+A. F-1 student visa holders may only apply for two periods of the 24-Month OPT STEM Extension during their lifetime.
+
+Q. Can I volunteer, be self-employed, or work through a staffing agency to meet the employment requirements during the 24-Month OPT STEM Extension?
+
+A. F-1 student visa holders cannot be self-employed, in an unpaid/volunteer position, or employed through a staffing agency during the 24-Month OPT STEM Extension.
+
+Q. If I am participating in the 12-Month OPT with a degree not STEM eligible, can I use a previous degree in a STEM field to apply for the 24-Month OPT STEM Extension?
+
+A. If you completed a STEM degree within the last ten years at a U.S. accredited institution with SEVP certification and did not engage in the 24-Month STEM Extension with that degree, you may be eligible to use this STEM degree to apply for the 24-Month STEM Extension OPT while in an Active period of 12-month Post-Completion OPT.
+
+Q. How many days of unemployment can I accrue during the 24-Month STEM Extension OPT period?
+
+A. F-1 student visa holders participating in the 24-Month STEM Extension OPT program are allowed an additional 60 days of unemployment in addition to the 90 days of unemployment during the 12-month Post Completion period, for a total of 150 days of unemployment during these two periods of OPT.
+
+Q. What is the earliest and latest date I can apply for the 24-Month STEM Extension of OPT?
+
+A. F-1 student visa holders in an active period of 12-Month Post-Completion OPT can apply for the 24-Month STEM Extension 90 days in advance of the 12-Month Post-Completion OPT end date and must submit the I-765 application to USCIS no later than the 12-Month Post-Completion OPT end date to be eligible for this benefit.
+
+Q. What is the latest date I can submit the I-765 application to USCIS after the 24-Month STEM Extension recommendation is entered in SEVIS and the I-20 with the 24-Month STEM Extension recommendation is issued?
+
+A. The I-765 application must be filed with USCIS within 60 days of the 24-Month STEM OPT Extension recommendation in SEVIS. The date of the recommendation in SEVIS is the date of issuance of the I-20 with the 24-Month STEM OPT Extension recommendation.
+
+Q. I have been sponsored for an H-1B and want to know how to report the end of my 24-Month STEM Extension of OPT employment, what should I do?
+
+A. Complete the Final Evaluation e-form in the iStart portal to report this change to OIE.
+
+Q. Can I engage in study while on STEM OPT?
+
+A. The U.S. government regulatory guidance on whether degree study is permissible while concurrently participating in a period of Post-Completion OPT is limited. The guidance that is available states that full-time degree study is not permissible, but part-time degree study and avocational study, e.g., basket weaving is permissible. Please note that United States Citizenship and Immigration Services guidance shares that an OPT authorization is automatically terminated if an F-1 student transfers to another school or begins a new degree level. For this reason, OIE cautions F-1 student visa holders engaging in OPT to limit their enrollment to part-time enrollment or avocational studies during the OPT period. F-1 students interested in resuming full-time degree study will need to transfer to a new institution or complete the change of level process with OIE.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

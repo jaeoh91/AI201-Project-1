@@ -1,0 +1,70 @@
+Source: Social Security Numbers
+URL: https://isss.oie.gatech.edu/node/3399
+
+# Social Security Numbers
+
+What is a Social Security Number?
+A Social Security Number (SSN) is a permanent nine-digit identification number administered by the Social Security Administration, an agency of the U.S. federal government. SSNs are required for anyone employed in the U.S. because it tracks income for employers and the IRS, but is not required for anything else.
+
+Who is eligible to receive a Social Security Number?
+
+- F-1 students who are employed are eligible for a Social Security Number. F-2s are not eligible for a Social Security Number.
+- J visa holders are eligible for a Social Security Number whether employed or not. If a J visa holder is not employed, OIE encourages you to think carefully about whether you would like to apply for an SSN because of some dangers of having one (see below).
+
+Who is required to have a Social Security Number?
+All individuals working in the U.S. are required to have a Social Security Number. Many jobs do not require you to have a Social Security Number to begin working, but you should submit SSN information to your employer as soon as possible.
+
+Why is everyone asking for my Social Security Number?
+International visitors are not required to have a Social Security Number to enter the U.S., open a bank account, sign a lease, or get a Georgia driver's license. However, it is likely that you will be asked for an SSN when trying to do these things. This is because SSNs are used to check your financial credit history (i.e. do you pay bills on time?).
+
+If you are asked for an SSN by a cell phone carrier, bank, landlord, etc. you should explain that you are not eligible for one. Since you do not have a financial credit history, you may be asked to pay a higher deposit for certain services.
+
+I am employed and/or eligible for a Social Security Number. How do I get one?
+International visitors who are eligible for a Social Security Number can apply with an Active immigration records and after being inside the U.S. for 10 days. Your record will be activated after you complete the OIE check-in and you will receive an email to confirm that your SEVIS record is activated.
+
+Note: If working at Georgia Tech, HR does not require you to have your SSN at the time of completing your onboarding, but you will be required to provide it to HR once the SSN is obtained and within 90 days of your employment start date at GT. Once you have obtained your SSN, please complete the HR "Social Security Number Update" e-form in iStart under Affiliates and Employees > New Affiliates and Employees.
+
+You will need to take the original documents listed below and one hard copy of each document to apply for a SSN. You are also encouraged to review the Social Security Administration's website.
+
+- Completed SS-5 Application for a Social Security Card
+- Valid passport
+- U.S. F / J Student Visa Stamp
+- Print-out of your most recent I-94 Record (Can be retrieved online: https://i94.cbp.dhs.gov/I94/#/home#section)
+- Printed I-20 form (SSA accepts digitally signed I-20 forms but you will be required to print out the I-20 form in order to include within your application. For additional information regarding digitally signed I-20 forms, please review our website.)
+- Employment Letter(s)
+
+- On-campus employment:
+
+- F-1/J-1  Students need their Hiring Department's Support Letter (Contact your hiring department for this letter- view a sample of this letter)
+- F-1/J-1 students need OIE's On-Campus Employment Letter (request via iStart under SSN &Taxes menu)
+- J-1 scholars and student interns only need their department's invitation letter. They do not need support documentation from OIE
+- Off-campus employment:
+
+Valid F-1 work authorization (CPT or OPT)
+
+Employment Offer Letter that describes:
+
+- Your job
+- Your employment start date
+- Number of hours you will work
+- And your supervisor’s name and telephone number
+
+Please note, OIE cannot provide guidance on how to complete the Social Security Number application form and you should not use OIE's address as your own on the application.
+
+Requesting a Social Security support letter from OIE
+Students working on-campus need to request a Social Security support letter from OIE. You can request this support letter by logging into iStart and submit the "OIE On-Campus Employment Letter Request " e-form found under SSN and Taxes. You will be required to upload your job offer letter into the e-form. A support letter will be generated for you and you'll be notified of pick-up options.
+
+For those not employed by GT, you are not required to have an OIE Support letter for your application. You will instead use your employment offer letter. Please note that international student visa holders are not eligible to begin employment off-campus unless they have a valid work authorization. You can learn more about employment options available to international students at F-1 Employment Overview | International Students and Scholars Services (gatech.edu).
+
+Protecting your Social Security Number
+If you get a Social Security Number, you should protect it in order to avoid becoming a victim of identity theft. While you likely will be asked for your SSN when leasing an apartment, setting up a bill or service (cell phone, utilities), or opening a bank account, you should protect your Social Security Number and do not give it out freely. You should not carry your Social Security card around with you. You should keep your card (and your number) in a safe place and do not give it out to anyone who does not have a legitimate reason to ask for it.
+
+If someone is able to get your Social Security Number, they can open bank accounts or buy things under your name! You can quickly become a victim of identity theft if someone gets your number and they can cause problems far into the future. Do not give your number over the phone or via email, particularly if you did not initiate contact.
+
+If someone is asking you for your Social Security Number and you do not know if you should give it to them, please feel free to email info@oie.gatech.edu for support.
+
+For more information about scams and identity theft prevention, please visit our Scam 101 website.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

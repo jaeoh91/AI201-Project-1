@@ -1,0 +1,76 @@
+Source: I-20 Updates: Keeping your I-20 Up-To-Date
+URL: https://isss.oie.gatech.edu/node/3431
+
+# I-20 Updates: Keeping your I-20 up-to-date
+
+It is a Department of Homeland Security requirement that F-1 students possess I-20s that most accurately reflect their biographical, address, financial, and academic information. This is particularly important if you will be traveling and renewing your F-1 student visa.
+
+Examples:
+Biographical: Change in name
+Dependents: Addition of F2 dependent
+Address: United States Address and Foreign Address
+Financial: Significant change to financial support such as an addition or loss of a GRA or GTA
+Academic: Change in major, degree level, or program completion date
+
+Depending on the type of request, I-20 updates are done through either Buzzport or iStart.
+
+Name and/or address change
+Addition of Dependents
+Financial Updates
+Program Extensions
+Change of Degree Level (BS-->MS or MS--> Ph.D.)
+Change of Major
+
+#### Buzzport/Registrar Initiated:
+
+- Name changes: Students should not change their name with the Registrar’s office/Buzzport unless they intend to make changes to their immigration documents. Students should speak with an International Student Advisor before requesting a name change.
+- Address changes:  F-1 students are required to update their United States and Foreign Address by submitting the Personal Information Update e-form in iStart.
+
+#### iStart Initiated E-forms:
+
+- Request New Dependent SEVIS Document: To request an I-20 for an F2 dependent (spouse or child)
+- Financial Statement Update:  To reflect a significant change to funding, i.e. the addition or loss of a GRA/GTA or scholarship
+- Graduate Program Extension: To request an extension if more time is required to complete a graduate student's educational objectives.  The request must be approved by a graduate coordinator and the student may need to supply proof of funding if the student is not fully funded by their department.
+- Undergraduate Program Extension:  To request an extension if more time is required to complete an undergraduate student's educational objectives.  The request must be approved by an academic advisor, and the student will need to supply proof of funding.
+- Change of Degree Level:  To reflect a change in degree level once a student is admitted to another degree level; i.e. BS to MS or MS to PhD
+- Undergraduate Change of Major: To reflect a change in an undergraduate's primary major (see below for an explanation of primary major).  The request does not need to be approved by an academic advisor, and the student does not need to supply proof of funding unless an extension is also required. Please read below to learn about primary majors and if/when to change your major.
+- Graduate Change of Major: To reflect a change in a graduate student's primary major (see below for an explanation of primary major).  The request must be approved by a graduate coordinator, and the student may need to supply proof of funding if the student is not fully funded by their department. Please read below to learn about primary majors and if/when to change your major.
+
+#### Change of Majors
+
+I am renewing my F-1 student visa and the major on my I-20 doesn't match my transcript. What do I do?
+When renewing their F1 visa, students should provide the consulate with the updated I-20 reflecting the change of major.  In addition to the I-20, the consulate will request several GA Tech institutional documents, including an official transcript.  Since the change of major is not applied to the official transcript until the following academic term, students who have recently updated their I-20 will possibly have an I-20 reflecting the new major and a transcript containing the old major.  ISSS suggests that students use both documents for the visa renewal along with the signed change of major request that was submitted to the Registrar’s office.
+
+What is a Primary Major?
+F-1 students are permitted to add and/or change majors and minors.   However, secondary majors and/or minors are not reported in SEVIS.  Therefore, they do not appear in section 5 of the I-20. The major listed in section 5 of the I-20 corresponds to a student’s primary major as listed in Buzzport and with the Office of the Registrar.
+
+It is the student's responsibility to notify OIE when they add or change their major.
+
+Should I submit the Change of Major e-form?
+Students who have added a minor or a secondary major should not submit the Change of Major e-form as the minor or secondary major will not be entered in SEVIS.
+
+The following types of students must complete the Undergraduate/Graduate Change of Major e-form in iStart within 10 days of the change:
+
+1. Students who have changed their major
+2. Students with more than one major, but have changed the priority major.
+
+I have more than one major, which should I make my primary major?
+Before deciding on a primary major, students should consider their long-term objectives here in the U.S as the major listed in section 5 of the I-20 can impact the type of employment in which students may engage.
+
+International students participating in Optional Practical Training (OPT) may only work in positions directly related to their fields of study.  During the first 12 months of OPT, students may hold positions related to either major as long as the primary major is listed in section 5 and the secondary major is indicated in the remarks section of the I-20.
+
+However, students who plan to apply for the 24 Month OPT STEM Extension must have the STEM extension eligible major as their primary major and printed in section 5 of their I-20.  STEM stands for science, technology, engineering, and math. International students in a STEM eligible major are able to apply for a 17-month STEM OPT extension. This means that after the initial first 12 months allowed for OPT, students who graduated in a STEM eligible major can apply for an additional 24 months of OPT bringing the total amount of time allowed for OPT to 29 months. Please find a list of Georgia Tech STEM eligible majors at our ‘What are the STEM eligible majors here at Georgia Tech?’ website.
+
+What is a CIP code?
+Schools across the U.S. offer similar programs of study but each of them unique in their name and description. The U.S. Department of Education created the classification of instructional programs (CIP codes) to organize and categorize each program across the U.S.
+
+The Registrar, academic units, and the Board of Regents review the programs at Georgia Tech to assign the appropriate CIP code to each degree offered at Georgia Tech. To view the assigned CIP codes at Georgia Tech, please review the Board of Regents site. You can find your assigned CIP Code on the first page of I-20 form within the "Program of Study" section.
+
+How does that affect international students?
+For more information about CIP codes and why it's important in regard to F-1 and J-1 student records, we encourage you to review this helpful Study in the States Overview.
+
+F-1 students may notice that the major name listed within the "Program of Study" section on page 1 of their I-20 form differs from the name of their academic program at Georgia Tech. It is common for the CIP code name to not align exactly with the name of the degree at Georgia Tech. OIE is required to ensure that the CIP code assigned to a student's record is the correct CIP code as noted within the Board of Regents site. Note, if the assigned CIP code for a program changes after a student graduates from the program, their record will remain the same and they do not qualify for the CIP code assignment change.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

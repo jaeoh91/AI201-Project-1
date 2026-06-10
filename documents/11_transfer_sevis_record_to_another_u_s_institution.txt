@@ -1,0 +1,54 @@
+Source: Transfer SEVIS Record to Another U.S. Institution
+URL: https://isss.oie.gatech.edu/node/4095
+
+# Transfer Out of Georgia Tech
+
+F-1 and J-1 student visa holders at Georgia Tech who wish to attend another U.S. institution can request to have their F-1 or J-1 SEVIS immigration record transferred. It is important that students clearly communicate with both Georgia Tech and their new institution to ensure they are aware of important deadlines and eligibility criteria.
+
+To request that OIE transfer your immigration record to another U.S. institution, complete the following steps:
+
+### Step 1: Obtain Admission & Connect with your new school's International Student Advisor
+
+- To request the transfer of your SEVIS Immigration record, OIE must review and verify your admission letter to your new school. Please ensure the admission term for the semester you are transferring is listed on your admission letter.
+- Contact your new international student advisor to collect their contact information and consult with them regarding the timeline of your transfer. You will need to collect the following from them:
+
+- SEVIS School Code
+- their name, phone number, and email address
+- In the event you are asked to provide contact information for a Georgia Tech DSO, please use the following:
+
+- Name: Georgia Tech DSO (OIE asks that you list "Georgia Tech DSO" so that in the event GT needs to be contacted, any OIE advisor can respond on your behalf)
+- email: info@oie.gatech.edu
+- phone: 404-894-7475
+- address: 631 Cherry Street, Savant Suite 211
+               Atlanta, GA 30332-0284 USA
+
+### Step 2: Identify your SEVIS transfer release date
+
+- When preparing to transfer your SEVIS immigration record, you will need to identify a SEVIS “transfer release date.” This is the date that your SEVIS record will end with Georgia Tech, it will transfer to your new school's SEVIS immigration system, and it will be the first day that your new school has access to your record in order to issue your I-20 or DS-2019 form. You are not required to wait until the transfer release date to complete your I-20 form request process with your new school. The transfer release date is something that can be scheduled to occur in the future.
+- Things to consider when selecting a SEVIS transfer release date:
+
+- After the SEVIS transfer release date, Georgia Tech will no longer have access to your SEVIS record. Therefore, OIE will not be able to cancel the transfer, edit the release date, or change the school to which the record was transferred. If you need to make any changes to your SEVIS record transfer, please notify OIE before the SEVIS transfer release date.
+- Your new institution will not be able to issue your new I-20 form to attend their University/Institution until on or after the SEVIS transfer release date.
+- You cannot work on-campus or attend classes at Georgia Tech on or after the SEVIS transfer release date.
+- If you have been approved for OPT, you must stop working on or before the SEVIS transfer release date, and know that you cannot re-capture any unused time on your EAD. Also, up until the release of your immigration record, you are required to continue reporting changes in employment and personal information to OIE via iStart. For additional information about OPT reporting requirements, please review our website.
+- To be eligible for a SEVIS transfer, you must begin full-time enrollment at the new school within 5 months of the last day of class at GA Tech or the end of your OPT. If you have any questions or concerns about this, you are encouraged to contact your new school to ensure your eligibility for the SEVIS record transfer.
+- If you travel internationally after your SEVIS transfer release date, you cannot use the Georgia Tech I-20 form to re-enter the U.S. You will need to work with your new institution to receive the I-20 form for your new program before attempting to re-enter the U.S.
+- If you are unsure which transfer release date to choose, you are encouraged to consult with both your current school and OIE to ensure you identify a valid transfer release date.
+
+### Step 3: Complete the Transfer Out request in iStart
+
+- If you are an enrolled student at Georgia Tech, complete the "Transfer Out Request" e-form.
+- If you are on Post-Completion OPT, complete the "End OPT" e-form.
+- If you are on your OPT STEM Extension, complete the "Final Evaluation" e-form.
+
+After completing the request, OIE will process your request within the processing time published on our website, and you will receive an email confirmation verifying the SEVIS transfer release date.
+
+### Step 4: Contact your new institution to ensure all transfer procedures are followed to receive their I-20 or DS-2019 form.
+
+#### Special Considerations for those Transferring from GT:
+
+If an H-1B application was filed on your behalf and you have decided to abandon the change of status and instead remain in F-1 status, you need to obtain the documentation that shows the H-1B application was withdrawn prior to the H-1B taking effect. Even after transferring to another school and receiving another school's I-20 form, it is possible that your F-1 record will auto-complete due to the change of status application being on your F-1 SEVIS record. For your new school to file a correction to have your F-1 SEVIS record returned to active status, you must obtain proof that the withdrawal of the H-1B petition was received by USCIS prior to it taking effect, and you must have official documentation from USCIS acknowledging the withdrawal.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

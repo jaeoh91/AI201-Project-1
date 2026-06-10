@@ -1,0 +1,83 @@
+Source: OPT Frequently Asked Questions
+URL: https://isss.oie.gatech.edu/node/3456
+
+# Optional Practical Training FAQs
+
+Quick Links
+
+- Virtual F-1 OPT Workshop
+- Study in the States: Information about OPT
+- USCIS's Website: Information about OPT
+- USCIS's Website: I-765 Form
+- Eligible employment types while on OPT
+- OPT Travel Information
+- STEM OPT Extension website
+
+Optional Practical Training (OPT) FAQ:
+
+- I was authorized for a reduced course load within my one academic year at Georgia Tech. Am I still eligible to apply for OPT if I only have a one academic year I-20 form and was approved for an RCL?
+
+- Receiving authorization for a medical or academic reduced course load may not impact your eligibility for practical training (CPT/OPT). You may be eligible to apply for OPT after completing one academic year, even if authorized for a reduced course load. Final eligibility for practical training is determined after the review of your completed OPT request.
+- What employer information do I need to report during OPT?
+
+- You should report the following information: employer name, employer address, start date of employment, end date of employment, supervisor information, and any periods of unemployment.
+- How do I report my employer information?
+
+- You will report your employment information in iStart.
+
+- Post-Completion OPT Participants, find more information about your reporting requirements on our Post-Completion OPT guidance page.
+- STEM OPT participants, find more information about your reporting requirements on our STEM OPT guidance page
+- Does my employer have to be in the E-Verify program during my 12-month Post-Completion OPT period?
+
+- No, while on post-completion OPT, you do not have to be employed by a company that is e-verified.
+- However, to be eligible for the 24-month STEM extension, your employer is required to be an E-Verify employer. For more information on the 24-month STEM OPT extension, review our STEM OPT guidance page.
+- Do I need to continue to update my personal address and contact information while on OPT?
+
+- Yes, you must continue to report any changes to your U.S. address, foreign address, and contact information while on OPT. Note, you will need to report your current physical location while living inside the U.S., You cannot provide your employer's address or a PO box as your residential address.
+- Complete the reporting e-forms outlined below within your OPT e-form group found under the section: 4. OPT (Optional Practical Training) in iStart.
+
+- Post-Completion OPT: OPT Personal Contact / Employment Update e-form
+- STEM OPT: STEM OPT Personal/Contact Information Update e-form
+- Can I be unemployed during OPT?
+
+- Yes, while authorized for post-completion OPT, you are permitted up to 90 days of unemployment during the 12 months of authorized post-completion OPT.
+- If approved for the STEM extension, you will receive an additional 60 days of permitted unauthorized employment. Any unused unemployment days from your post-completion OPT authorization would carry over and be used during your STEM OPT authorization.
+- What counts as time unemployed?
+
+- Each day (including weekends) during the period when OPT authorization begins and ends that the student does not have qualifying employment counts as a day of unemployment. OPT authorization begins on the employment start date shown on the EAD card.
+- How do I report that I am unemployed?
+
+- You report that you are unemployed in iStart. Type "Unemployed" in the "Name of Employer" field. In the "Date Employment Began" field, use your OPT start date (if you are not employed by the EAD start date) or the date you became unemployed (if you became unemployed during OPT).
+- What type of work is allowed on standard post-completion OPT and which documents should I have to prove employment?
+
+- Please see ISSS's website on what types of employment are allowable while on OPT and a list of documents that have been suggested by USCIS to prove employment.
+- My employer has asked me to take a business trip outside the US. What do I report?
+
+- You are not required to change employment information (i.e. the address) if you will take a business trip outside the US.
+- I work in one location, but my employer's office is in another location. What should I report?
+
+- Report the address of the location where you are working.
+- Will I still have health insurance through Georgia Tech?
+
+- Students that have graduated and are no longer enrolling at GT are not enrolled in an insurance plan and should seek personal medical insurance. Please see our Health Insurance after Graduation website for more information.
+- If you are an MS or PhD student that has opted to pursue the OPT benefit prior to graduating and while still working on your thesis/dissertation, because you will continue to be enrolled, you will be responsible to purchasing GT insurance as you will remain a student at GT and are required by USG to be registered in student health insurance.
+- What is the H-1B cap-gap extension?
+
+- The H-1B cap-gap extension allows students who have timely-filed H-1Bs to continue working or staying in the U.S. until their H-1B becomes active. Read more at our H-1B Cap-Gap Extension website.
+- Can I use the OIE address as my mailing address on the I-765?
+
+- No, OIE does not accept mail on student's behalf. We ask that you use a personal mailing addresses on the I-765.
+- If I move while my OPT is pending, how can I update my mailing address with USCIS?
+
+- Once you have received your receipt number, you can use the USCIS My Case Status website to request your mailing address be updated.
+- If I am furloughed, or placed in a period of temporary unpaid leave, while in a period of OPT, will OIE count this as unemployment time towards the maximum limit?
+
+- If your employment is not terminated, but rather you are placed in a period of unpaid administrative leave with the expectation that you will return to full-time paid employment after the temporary period, you may still be considered as maintaining your employment while on OPT. We encourage individuals on OPT to consult with a qualified immigration attorney about this question.
+- If the temporary absence is considered a termination or end of employment, this must be reported to OIE using the iStart portal. F-1 visa holders participating in 12-month post-completion OPT must complete the OPT Personal Contact/Employment Update and those participating in 24 Month OPT STEM Extensions must complete the Material Change to Employment e-form.
+- Can I engage in study while on Post-Completion OPT or STEM OPT?
+
+- The U.S. government regulatory guidance on whether degree study is permissible while concurrently participating in a period of Post-Completion OPT is limited. The guidance that is available states that full-time degree study is not permissible, but part-time degree study and avocational study, e.g., basket weaving is permissible. Please note that United States Citizenship and Immigration Services guidance shares that an OPT authorization is automatically terminated if an F-1 student transfers to another school or begins a new degree level. For this reason, OIE cautions F-1 student visa holders engaging in OPT to limit their enrollment to part-time enrollment or avocational studies during the OPT period. F-1 students interested in resuming full-time degree study will need to transfer to a new institution or complete the change of level process with OIE.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

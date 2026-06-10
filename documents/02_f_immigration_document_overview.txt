@@ -1,0 +1,62 @@
+Source: F Immigration Document Overview
+URL: https://isss.oie.gatech.edu/node/4098
+
+# F Immigration Documents
+
+#### Passport
+
+A government-issued passport permits a student to leave and re-enter his/her own country and normally contains an expiration date. To enter the U.S, F students must present a passport with validity at least 6 months in to the future. F visa holders must keep their passport up to date.
+
+Renewing your passport:
+
+- Contact the closest consulate or embassy in the U.S. For a list of embassies and consulates in the U.S visit the U.S State Department's website.
+- Review the consulate instructions to determine which forms and fees are required.
+- Once the new passport is received, upload a copy in iStart using the "OIE's F Student Immigration Document Update" e-form.
+
+What should I do if my passport is lost or stolen?
+
+- If lost while inside the U.S.: You should first go to the local police station to report the documents as lost or stolen. If you have original copies of these documents, make sure you take them to the police station. You will then need to contact your home country's local embassy or consulate in the United States to report missing travel documents and they will advise you on next steps.
+- If lost while outside the U.S.: You should first contact your home country's local embassy or consulate for additional guidance and next steps. After acquiring a new passport, you will need to then apply for a new U.S. visa to return to the U.S. to continue your studies or research.
+
+#### Visa
+
+With the exception of students from Canada or Bermuda, F students are required to present a valid F visa upon entry into the U.S. The visa is stamped into the passport by the U.S consulate or embassy.  The visa does not determine the length of time F students can remain in the U.S. It is the I-20 that reflects the length of stay.  Since it is an entry permit, the visa can expire while the student resides in the U.S., but it must be valid when a student attempts entry to the U.S. after a period of international travel.
+
+Renewing your U.S. visa for re-entry: It is not possible to renew an F-1 visa while you are in the U.S. If you are traveling abroad and your visa has expired, you will need to renew your visa while abroad unless you are eligible for automatic visa revalidation. For information on renewing your visa at a consulate/embassy abroad, visit OIE's Visa Renewal website.
+
+Once the new visa is obtained, upload a copy in iStart using the "OIE's F Student Immigration Document Update" e-form.
+
+#### Form I-94 (Arrival/Departure Record)
+
+I-94 arrival/departure records are issued at the time of entry into the U.S.  U.S. federal law requires that you carry a printed version of your I-94 Arrival/Departure Record on your person at all times. All F students should possess a I-94 record that contains the following:
+
+- An "Admit Until Date" of D/S. D/S stands for duration of status and signifies that a F student may remain in the U.S for the length of their program of study as long as they are maintaining lawful status. Upon completion of studies, F students may apply for Optional Practical Training (OPT).  If approved, F students are allowed to remain in the U.S for the OPT period plus an additional 60 day grace period.
+- A "Class of Admission" of F-1
+- Correct date of entry into the U.S
+- Correct biographical information
+- An 11 digit I-94 number
+
+Paper I-94s versus Electronic I-94s
+
+- Paper I-94s: Until April 30, 2013, the I-94 was a paper document.  Students who arrived in the U.S. before April 30, 2013 and who have not traveled abroad, will still have a paper I-94 which should be stapled in their passport.
+- Electronic I-94s: On April 30, 2013, the US government published a new regulation eliminating paper I-94s arrival/departure records and moved to an electronic system. These records can be accessed online, and foreign visitors will no longer need to fill out the paper I-94 form when arriving to the US. The Customs and Border Patrol (CBP) Officials will gather the visitor's arrival and departure information by accessing the electronic travel records. For more information please see OIE's announcement about the new process or CBP's FAQ page.
+
+To access your electronic I-94 record, please visit CBP's I-94 Number Retrieval website.
+
+Having problems accessing your I-94, click here for help.
+
+#### Form I-20
+
+Click Here For a Closer Look at Your I-20
+
+The I-20 is a "Certificate of Eligibility" is the immigration document issued to an individual admitted to Georgia Tech to pursue a full-time academic program and requires an F-1 student visa to enter the U.S. to study. The I-20 form lists the student's biographical, academic, and financial information and contains an expected program completion date. Students who meet their degree requirements prior to this date must request to have their I-20 updated to reflect the term end date in which their program requirements are met. Students who do not complete by the end date listed on the I-20, are required to request an extension from the OIE prior to the expiration date listed on the form I-20.
+
+#### When to Carry your Immigration Documents
+
+You should always carry your printed I-20 and I-94 Arrival Departure Record while inside the U.S.
+
+OIE recommends that you carry copies of your I-20 and passport with you when you are inside the Atlanta area and keep your original documents in a safe place that is easily accessible. This way, you are less likely to lose them but are able to present them if needed.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

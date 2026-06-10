@@ -1,0 +1,98 @@
+Source: Taxes for Non-Residents
+URL: https://isss.oie.gatech.edu/node/181
+
+### 2021 Recovery Rebate Credit
+
+In December, the IRS announced that over a million taxpayers did not claim or file a 2021 U.S. tax return to claim the Recovery Rebate Credit (“RRC”) – as such, the IRS began simply mailing $1,400 checks to taxpayers who the IRS deemed would have been eligible to claim the credit if a 2021 tax return had been filed.  Unfortunately, the IRS is erroneously issuing these rebate checks to nonresident aliens – who were not eligible to claim it on their 2021 tax return . To have been eligible for this credit, the individual must have been a U.S. citizen or resident alien for U.S. tax purposes for tax year 2021; nonresident aliens were not eligible to claim the RRC. Please refer to Question 1 of the 2021 RRC FAQ page for eligibility requirements. https://www.irs.gov/newsroom/2021-recovery-rebate-credit-topic-c-eligibility-for-claiming-a-recovery-rebate-credit-on-a-2021-tax-return. Individuals who received this check erroneously should follow the instructions online here: https://www.irs.gov/taxtopics/tc161#:~:text=If%20your%20refund%20was%20a%20paper%20Treasury%20check%20and%20has,the%20state%20you%20live%20in.
+
+# Tax Resources
+
+The purpose of this resources is to assist Georgia Tech International Students/Scholars with general information about U.S. income taxes.
+
+The U.S. federal and state governments impose a tax on income, taxable scholarships, and other types of monetary gain. Taxes are generally withheld before a payment is made and individuals are expected to file tax reports by a specified deadline after the end of the tax year. Please see IRS site for deadline here.
+
+During the tax reporting season, if it is determined that the tax payments that were made during the tax year prior  were not enough to cover the total income tax due, you must pay the federal and/or state revenue department. Conversely, if you paid too much over the course of the tax year (more than what you owe in tax), then the federal and/or state revenue department will return your excess payment in the form of a tax refund.
+
+Navigation
+
+- No Income? File Form 8843
+- Federal & State Taxes
+- How to Request a Sprintax Tax Code
+- State Taxes
+- Avoid Tax Scams
+
+### No Income? File Form 8843
+
+Were you present in the United States for any period during the year 2025? Are you a non-resident for tax purposes? A yes answer to both questions means you must file a tax form 8843, even if you did not work. All nonresident aliens present in the U.S. under F-1, F-2, J-1, or J-2 nonimmigrant status must file Form 8843 "Statement for Exempt Individuals and Individuals With a Medical Condition" -- even if they received no income during a tax year. Depending on various factors, you also may need to file both a federal and state tax return.
+
+Form 8843 must be filed if an individual is:
+
+- Present in the U.S. for any day during 2025
+- A nonresident alien (an individual who has not passed the green card test or the substantial presence test.)
+- Present in the U.S. under F-1, F-2, J-1, or J-2 status
+
+If an individual meets all three qualifications above, the Form 8843 must be filed for the tax year.
+
+Click here for Helpful Tips to complete Form 8843
+
+### Federal & State Taxes
+
+International Student and Scholar Services has purchased access licenses for international students to use Sprintax software to assist Georgia Tech students and scholars to file their Federal tax returns. There are a limited number of codes, so request one and use it as soon as possible. Sprintax will also prepare state tax returns for a fee.
+
+Students and scholars who claimed a tax treaty exemption or who received a scholarship that exceeded the amount of tuition due will require the 1042-S form to accurately complete their tax return. GLACIER will send an email to those who have 1042-S forms available when the forms are complete and ready for use.
+
+The Sprintax Tax Code e-form for 2025 is available for you to submit in iStart. For all tax questions, please visit services.gatech.edu and click on Human Resources to submit a ticket.
+
+### How to Request a Sprintax Tax Code:
+
+1. Log in to istart.gatech.edu
+2. Visit #6: SSN and Taxes in the menu panel on the left side of the screen
+3. Select “Sprintax Access Request 2025 Tax Year" e-form
+4. Read the instructions and answer the following basic questions:
+
+- Enter your preferred email
+- Respond to the questions
+5. The e-form will notify you if you are ineligible to use Sprintax, or if you only need to file Form 8843
+6. If you meet Sprintax usage criteria, click “Submit” and your request for a Sprintax Tax Code will be submitted for review
+7. You will not receive an access code immediately. You will receive email notification with the access code when your request is processed. This is not an OIE process. Any questions about the process should be referred to the Administrative Services Center,
+
+Sprintax will determine your tax residency. If you are a nonresident for tax purposes and earned taxable income, then use Sprintax to help you through the process of completing your Federal and State tax return documents. If the software identifies you are a resident taxpayer then please follow instructions available on IRS.gov for individual resident taxpayer filing.
+
+Georgia Tech non-resident taxpayers who earned income should use the Sprintax software to complete your Federal and State tax returns. The OIE has paid Sprintax to cover the cost of the federal tax return for Georgia Tech non-resident students and scholars. You will be responsible for paying Sprintax to complete State tax filing.
+
+Individuals can also choose pay a discounted rate to Sprintax to complete the ITIN or Social Security taxes (FICA) withholding in error tax forms.
+
+Please use the following when completing Sprintax:
+
+Academic Program Director Name: Kathleen Kirk
+
+Academic Program Address:
+Georgia Institute of Technology
+631 Cherry St, Savant Bldg 211
+Atlanta, GA 30332-0284
+404-894-7475
+
+Please Note: If you are non-resident for tax purposes, and you had no U.S. earned income or scholarships in U.S., you must file IRS Form 8843. Spouses and dependents in F-2 and J-2 status who are non-residents for tax purposes must also file Form 8843. Use the Helpful Tips video above to help you complete the form. All you will need to do is mail the form 8843. There will be no tax forms required for the State of Georgia.
+
+- Instructions to file the form 843 and form 8316 to request a refund of SSN taxes (FICA) withheld in error
+- How to Request an Individual Tax Identification Number (ITIN) During the Tax Season
+- Information and Resources from the Office of Human Resources
+- Global HR International Student and Scholar FAQs
+
+### State Taxes
+
+NOTE: Filing income tax forms is the personal responsibility of each international student and scholar. OIE has designed this website as a service to help you meet your tax filing obligations, but please be aware that you are ultimately responsible for the accuracy of your income tax returns.
+
+### Avoid Tax Scams
+
+We want you to be aware of tax scams, especially to scammers who call and say they are with the Internal Revenue Service (IRS). There is an increase in aggressive phone scams during tax season. Visit the Federal Trade Commission's website on Tax Identify Theft for ways to identify a tax scam, and helpful tips for keeping yourself safe.
+
+To learn more about scams, click here to read our Scams 101 Guide
+
+### 2021 Recovery Rebate Credit
+
+In December, the IRS announced that over a million taxpayers did not claim or file a 2021 U.S. tax return to claim the Recovery Rebate Credit (“RRC”) – as such, the IRS began simply mailing $1,400 checks to taxpayers who the IRS deemed would have been eligible to claim the credit if a 2021 tax return had been filed.  Unfortunately, the IRS is erroneously issuing these rebate checks to nonresident aliens – who were not eligible to claim it on their 2021 tax return . To have been eligible for this credit, the individual must have been a U.S. citizen or resident alien for U.S. tax purposes for tax year 2021; nonresident aliens were not eligible to claim the RRC. Please refer to Question 1 of the 2021 RRC FAQ page for eligibility requirements. https://www.irs.gov/newsroom/2021-recovery-rebate-credit-topic-c-eligibility-for-claiming-a-recovery-rebate-credit-on-a-2021-tax-return. Individuals who received this check erroneously should follow the instructions online here: https://www.irs.gov/taxtopics/tc161#:~:text=If%20your%20refund%20was%20a%20paper%20Treasury%20check%20and%20has,the%20state%20you%20live%20in.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

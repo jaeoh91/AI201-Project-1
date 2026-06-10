@@ -1,0 +1,54 @@
+Source: Renewing Your Visa
+URL: https://isss.oie.gatech.edu/node/2794
+
+# Renewing your Visa
+
+A citizen of a foreign country who seeks to enter the United States(U.S.) must first obtain a U.S. visa, which is placed in the traveler’s passport. F-1 or J-1 visas are issued for the purpose of study, research, and while the individuals are on their benefits like Optional Practical Training (post-completion & STEM) and Academic Training. The guidance on this page is specific to those seeking either an F-1 or J-1 visa while maintaining their F-1/J-1 status with Georgia Tech.
+
+Procedures and requirements for visas can vary between countries and are subject to change. As such, reviewing the visa requirements on the website for the appropriate U.S. Embassy/Consulate is the best way to prepare you for the visa application process. OIE has prepared the information below as supplemental guidance. For specific instructions, required documents, and timing, you will need to review the guidance from the U.S. embassy or consulate that you'll be attending to apply for your F-1 or J-1 visa.
+
+#### F-1 & J-1 Visa Renewal
+
+The process to renew your visa is very similar to the process you went through to obtain your first F-1 or J-1 visa. As you prepare to renew your visa, consider the following:
+
+- Visit the U.S. Department of State's website to locate the nearest U.S. Embassy/Consulate along with the specific procedures and documentation required. Note that the Department of State has advised that visa appointments should be made within your own country of nationality or residence. Those living in or are from countries where there is no functioning embassy/consulate will need to apply at a specific designated consulate/embassy. More information can be found here: https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html.
+
+- Approximate visa appointment and processing wait times can be found on the Department of State's website.
+- Review your I-20/DS-2019 form.
+
+- Travel Signature:
+
+- Ensure your I-20 form or DS-2019 form has a valid travel signature. It is not necessarily required for the visa interview, but will be required at the time of re-entry to the U.S.. For more information about travel signatures and the process to request one, please review OIE's comprehensive travel guidance.
+- Program Information:
+
+- If the program information is not correct, complete the necessary e-form in iStart to request an updated I-20 form from OIE. Please note, OIE will only be able to update the information once your student record is updated.
+- Financial Information:
+
+- Review the financial information on your I-20 or DS-2019 form. If the information on your documents are no longer up-to-date, complete the "Financial Statement Update" e-form in iStart in order for OIE to update the financials.
+- OPT Participants:
+
+- Ensure that your employment record on your I-20 form is up-to-date with your entire employment history.
+- Obtain a job offer letter or current employment verification letter from your employer(s).
+
+#### Administrative Processing & Visa Denials
+
+Administrative processing is an additional security check the U.S. Department of State requires for some visa applicants. To determine a student/scholars's eligibility for an F-1/J-1 visa, the U.S. Department of State may require additional information and documentation regarding your prior travel to the U.S., your employment history, additional information about your academic or research program objectives, in addition to your intentions once your degree is finished. Students/Scholars can find more information about administrative processing 221(g) on the Department of State's (DOS) Administrative Processing website.
+
+If the embassy/consulate find you ineligible for the visa, they will issue a letter outlining the reason for the visa denial. More information about visa denials can be found on the Department of State's (DOS) Visa Denial website. We encourage you to consult with a qualified immigration attorney for legal guidance before applying for a visa a second time.
+
+In the event your visa application is placed under administrative processing or is denied, please report this issue to OIE by completing the Student Administrative Processing Visa Delay & Denials e-form found within the Report Visa Issue section in iStart.
+
+#### Security Advisory Opinion (SAO)
+
+When is a Security Advisory Opinion (SAO) requested? An SAO may be required of a visa applicant for a number of reasons: a "hit" during a name-check; being a "national" of certain countries; studying or researching an academic field on the Technology Alert List (TAL); or, based on the "intuition" of the interviewing officer.
+
+If you are subject to an SAO, unfortunately, there is nothing that Georgia Tech can do to expedite the process. If you are a current graduate student at Georgia Tech and subject to an SAO, please inform your academic department so that they are aware of the delay. This is especially important if you are a GRA/GTA. Therefore, you must wait until the check is complete, which can be anywhere from 2 weeks to several months.
+
+- Name check: Every applicant for any visa must undergo a name-check through the Consolidated Consular Database (CCD). If the applicant's name matches a name on the database as a 'problem,' an SAO is required.
+- Nationality: Being a "national" of certain countries may be all that is needed to require an SAO. "National" may mean that the individual has dual citizenship, once was a citizen of one of those countries, OR was born in one of those countries. The only way to avoid this is if proof of renunciation of that citizenship is in writing (whether in fact the applicant was ever a citizen of the country).
+- Technology Alert List (TAL): Many of the fields of study listed on the TAL are very broadly stated which results in a number of SAOs. If the research is clearly not of strategic importance, a detailed (but not lengthy!) explanation of the specific research that the applicant is engaged in may remove the need for an SAO.
+- Intuition: Consular officers are asked to use their own impressions to request an SAO if they are at all unsure of whether it is necessary or not.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

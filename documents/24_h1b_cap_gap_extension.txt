@@ -1,0 +1,53 @@
+Source: H1B Cap-Gap Extension
+URL: https://isss.oie.gatech.edu/node/3864
+
+# H-1B Cap-Gap Extension
+
+The H-1B cap-gap extension allows F-1 students currently on post-completion OPT/STEM OPT to continue working if they have a timely-filed H-1B petition requesting change of status and an employment start date of October 1 (the first day of the following fiscal year). An automatic cap-gap extension of an F-1 student's duration of status also applies to the duration of status of the student's dependents in F-2 status.
+
+"Cap-gap" has become the common term used to refer to the "gap" in nonimmigrant status that occurs in a change of status to H-1B, when a student's current nonimmigrant status expires before the requested H-1B start date. For example, an F-1 student with a post-completion OPT or STEM OPT end date of June 30 will have duration of status for 60 days beyond that, until August 30. The gap between August 30 and October 1 is a "cap-gap."
+
+#### Who qualifies for an H-1B cap-gap extension?
+
+Students must have a timely-filed H-1B petition while the student's authorized F-1 duration of status (D/S) admission was still in effect. This includes:
+
+1. Students working on post-completion OPT or STEM OPT with an end date on or later than April 1 and have a timely-filed H-1B petition. Students on post-completion OPT or STEM OPT may continue to work until September 30 until the H1B begins on October 1.
+2. Students who are currently in their grace period with a timely-filed H-1B petition. These students may stay in the U.S. until the H-1B begins on 10/1, but are not eligible to work during this time.
+
+The student must not have violated the terms or conditions of his or her F-1 status.
+
+#### Is there an application or fee for the cap-gap extension?
+
+No. The extension is automatically recorded on your SEVIS record.
+
+#### How do I get an updated I-20 showing the cap-gap extension?
+
+You may request a cap-gap extension I-20 from OIE to present to your employer. To request a cap-gap I-20, log into iStart and complete the Cap-Gap I-20 Request e-form. You will be required to upload a copy of a receipt notice from USCIS showing that your application was filed in a timely manner and is being adjudicated. Please review processing times on our website here.
+
+#### Do I have to have a new I-20 showing the cap-gap extension?
+
+No. The cap-gap extension is automatic as long as you have timely-filed H-1B petition. However, some employers request evidence of work authorization or you may be applying for benefits (i.e. renewing a drivers license) that may require a reprint.
+
+#### Travel with an I-20 issued for a Cap-Gap Extension
+
+U.S. federal regulations allow F-1 student visa holders participating in the 12-month Post Completion Optional Practical Training (OPT) or the 24-month OPT STEM Extension to exit the U.S. and re-enter with a valid F-1 student visa, valid Employment Authorization Document, job offer letter, and a valid I-20 showing Optional Practical Training authorization signed within the last six months. However, F-1 student visa holders who receive a cap-gap extension for the period of time between their original OPT end date and the start date of the H-1B should be cautious and consult with the sponsor of their H-1B before planning any international travel.    Although not common, there are reports of students on OPT experiencing delays at the U.S. ports of entry and with F-1 renewal visa denials.   OIE cannot guarantee that international travel is without risk because the authority to admit an F-1 student visa holder to the U.S. or grant a visa lies solely with the U.S. government. The decision to travel abroad must be made by the F-1 student visa holder with an understanding of the inherent risks and preparations to mitigate risk.
+
+The federal guidance available on international travel during the cap-gap period states the following:
+
+1. Under certain circumstances, an F-1 student on the cap gap extension may travel abroad and seek readmission to the United States. However, if an F-1 student travels abroad before USCIS approves their H-1B change of status (COS) petition, USCIS will deem the petition abandoned. The student’s F-1 status will expire per the program end date listed on their Form I-20. Meaning, if a student leaves the United States before USCIS approves their H-1B COS petition, that student will not be able to re-enter the United States as an F-1 student pursuant to the cap gap extension provisions.
+
+Specifically, you may travel abroad and seek readmission into the United States if you are an F-1 student on the cap gap extension and meet the following criteria:
+
+- Your H-1B petition and request for change of status has been approved by USCIS.
+- You seek readmission before your H-1B employment begins (normally such employment begins at the start of the fiscal year, i.e., Oct. 1).
+- You are otherwise admissible (e.g., you have all proper documentation including a valid, signed Form I-20 and an F-1 visa).
+
+You will not need to provide an Employment Authorization Document (EAD). This requirement does not apply because during the cap gap period your EAD card will have already expired, and USCIS will not renew the EAD card during the interim period.
+
+As with all other international arrivals at a U.S. port of entry, the final decision on whether to grant admission into the United States lies with U.S. Customs and Border Protection (CBP) officers. Visit our Getting to the United States page and CBP’s website for more information regarding the appropriate travel documents and supporting evidence required for entry into in the United States.”
+
+This guidance is available at H-1B Status and the Cap Gap Extension | Study in the States (dhs.gov)
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.

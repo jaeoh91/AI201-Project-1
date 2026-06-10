@@ -1,0 +1,104 @@
+Source: Understanding Your I-20/DS-2019
+URL: https://isss.oie.gatech.edu/understanding-your-i-20ds-2019
+
+# Understanding Your I-20/DS-2019
+
+## Start Here
+
+- Commonly Used Terms
+- I-20 Glossary
+- DS-2019 Glossary
+
+## Commonly-Used Terms:
+
+Original Source: Study in the States Glossary - https://studyinthestates.dhs.gov/glossary
+
+Designated School Official (DSO): An employee of the SEVP-certified school designated to provide recommendations to F and/or M students enrolled at the school regarding maintenance of nonimmigrant status, and to support timely and complete record keeping and reporting to the U.S. Department of Homeland Security. International Student and Scholars staff at Georgia Tech OIE serve as DSOs for F-1 students.
+
+ARO/RO: An employee of the Program Sponsor, approved by the Department of State to help administer the sponsor’s Bridge USA Exchange Visitor Program by performing duties related to the federal regulations around J-Visa Holders. International Student and Scholars staff at Georgia Tech OIE serve also serve as ROs for J-1 Visa Holders sponsored by Georgia Tech.
+
+SEVIS: An internet-based application that facilitates timely electronic reporting and monitoring of international students and exchange visitors, as well as their dependents, in the United States. This application enables schools and program sponsors to transmit electronic information to the U.S. Department of Homeland Security and the U.S. Department of State throughout a student's or exchange visitor's program in the United States.
+
+## I-20 Glossary
+
+ 
+
+ 
+
+ 
+
+1. SEVIS ID: your unique SEVIS ID number was assigned when your SEVIS record was created; it identifies your record in the Student and Exchange Visitor Information System (SEVIS).
+2. Surname/Primary Name & Given Name: The machine-readable zone on your passport sets the naming standard on the I-20. The machine-readable zone can be found at the bottom of the bio data page of your passport- for example, P<LASTNAME<<FIRSTNAME<<<. For more information about SEVIS Naming Standards, including a few exceptions to the rule, please see: Name Standards | Study in the States (dhs.gov). The name listed on your I-20 Form should match the name in your passport, and all other immigration documents.
+
+Tip: We are required to list a student’s last name in the ‘Surname/Primary Name’ field of the I-20. If your passport does not reflect a last name, we will use your first name in the Surname/Primary Name field.
+
+1. Passport Name: The passport name is typically blank, as it is an optional field on the I-20 that Georgia Tech does not utilize when issuing the I-20.
+2. Form Issue Reason: this field identifies the reason for the issuance of the I-20.
+3. Class of Admission: This field identifies the visa status you will pursue or maintain. On the Form I-20, this is F-1 or F-2.
+4. Education Level: the program you are completing – Bachelor’s, Master’s, or Doctorate
+5. Major 1: the name of the federal category that your major belongs to, within the US Department of Education’s Classification of Instructional Programs (CIP). The name of the major as listed on your I-20 may be different from the name of your major at Georgia Tech.
+
+Tip: If you refer to Georgia Tech’s degree program list webpage (Degrees & Majors Authorized - View Degrees and Majors (usg.edu)), the first six digits of your Georgia Tech program’s CIP code should match the CIP code that is listed within the Major 1 Field. If they don’t match, let us know!
+
+Example
+
+[Master of Science in Electrical and Computer Engineering 14100102] is listed on the I-20 as:
+
+Electrical and Electronics Engineering 14.1001
+
+1. Program Start Date: The program start date is the first day of classes of the academic term you intend to begin your program.
+
+1. Program End Date: Upon I-20 form issuance, the program end date is standardized to reflect the most common duration needed by students to complete their degree from GT. OIE utilizes the "End of Term" as defined by the Registrar as the program end date on the I-20 form. Should students successfully complete their degree program requirements sooner than the program end date, their I-20 form will be shortened. Students needing more time to complete their degree program requirements must file the Program Extension request in iStart before their program end date.
+
+1. Estimated Expenses: Expenses on the I-20/DS-2019 are estimates that are standardized based on tuition and fees charged by the Bursar’s office for a 9-month academic year, and include estimated living expenses, books, supplies, personal expenses, health insurance, and dependent expenses. Please review our website: A Guide to Graduate I-20 and DS-2019 Estimated Expenses and Funding | Office of International Education (gatech.edu) for more information. Students are required to show Funding that covers all estimated expenses, but Georgia Tech OIE does not list Funding on the I-20 beyond the minimum requirements. For example, if you provide a statement of $78,000, but are only required to show funding for $33,000, OIE will only list $33,000 in the funding amount.
+
+1. Number of Dependents: Students who request an F-2 I-20 for a spouse or child must demonstrate they have sufficient funding to cover the expenses of the dependents. Dependent expenses can also be found on our website: A Guide to Graduate I-20 and DS-2019 Estimated Expenses and Funding | Office of International Education (gatech.edu).
+
+1. School Attestation: a Designated School Official (DSO) will apply their signature and date in this field.
+
+1. Student Attestation: Print out your I-20 and sign the printout by hand in ink. You must show the hard copy of your I-20 with your original ink signature when traveling or applying for a visa. You should also print and sign your I-20 by hand before submitting a copy of your I-20 to USCIS for practical training or other applications.
+
+1. Employment Authorizations: requested or approved periods of OPT will appear here. Your requested or USCIS–approved OPT start/end dates will appear here. These dates extend the validity of your I-20, but only if your OPT application is pending with or approved by USCIS.
+
+1. Travel Endorsement: Also called a “Travel Signature”, students need a valid travel endorsement from their DSO on the I-20 when entering the U.S. in F-1 status. While you are an enrolled F-1 student, the travel signature is valid for 1 year from the date the travel signature was issued by the DSO. If your travel signature is more than 1 year old on the date of your return to the US, you need to request a new I-20 with an updated travel signature using the Travel Signature Request e-form in iStart. The Travel signature is valid for six months for individuals in a period of post-completion Optional Practical Training (OPT) or the 24-month STEM Extension of OPT.
+
+1. Instructions – Page 3 of your I-20: Students should read page 3 of the I-20, including the “Instructions To Students” section, carefully. This page contains valuable information about acquiring and maintaining F-1 student status. When you sign the I-20 under “Student Attestation,” you are certifying that you have read and agree to the terms and conditions concerning your admission and stay in the U.S.
+
+## DS-2019 Glossary
+
+ 
+
+1. SEVIS ID: your unique SEVIS ID number was assigned when your SEVIS record was created; it identifies your record in the SEVIS system.
+
+1. Participating Program Official Description: this is a list of all J-1 categories that Georgia Tech sponsors. Your specific category is listed in Box 4 (Exchange Visitor Category).
+
+1. Program Dates identifies the period covered while the Exchange Visitor is in J1 status.
+2. Exchange Visitor Category: the level under which the Exchange Visitor is participating. For Students, this means the academic level to which they have been admitted to pursue coursework. For Scholars and Student Interns, this field identifies their primary purpose and position on campus.
+
+1. Subject Field Code: For Students pursuing a degree program, the Subject Field Code refers to the name of the federal category that the academic program belongs to, within the US Department of Education’s Classification of Instructional Programs (CIP). If you refer to Georgia Tech’s degree program list webpage (Degrees & Majors Authorized - View Degrees and Majors (usg.edu)), the first six digits of the Georgia Tech degree program’s CIP code should match the Subject Field Code on your DS-2019.  For bilateral Exchange Students, the “Subject/Field Code” is the major under which you can enroll in courses. For Scholars and Student Interns, the subject/field code allows them to teach, perform research, or intern in that field.
+2. Financials: To be eligible for a J-1 visa more than 50% of your total financial support must be from a source other than personal or family funds for the entirety of your degree program. This financial support may be a scholarship, fellowship, or assistantship from an external funding source such as your home government or Georgia Tech.
+
+For Students, expenses on the DS-2019 are estimates that have been standardized
+
+based on tuition and fees charged by the Bursar’s office for a 9-month academic year, and include estimated living expenses, books, supplies, personal expenses, health insurance, and dependent expenses. Please review our website: A Guide to Graduate I-20 and DS-2019 Estimated Expenses and Funding | Office of International Education (gatech.edu). Students are required to show funding that covers all estimated expenses.
+
+1. Academic Training: Authorization for Academic Training will appear here if it is granted. For more information regarding Academic Training, please visit: Academic Training | Office of International Education. J-1 Students should apply for Academic Training before the Program End Date on the DS-2019.
+
+1. 212(e) Two Year Home Residency Decision
+
+When an Exchange Visitor is subject to a 212(e) requirement, this means that they are:
+
+- Ineligible for an H1-B visa, L visa, K visa or other immigrant visa (including permanent residency) at a U.S. Consulate until fulfilling the 2 year home residence requirement in your country of residency, or until the requirement is waived.
+- Ineligible to change from J-1 status to another visa status while remaining in the U.S. The Exchange Visitor can travel to apply for a non-immigrant visa at a U.S. Consulate abroad.
+
+​For the terms of the 212(e) requirement, please review item 1a on the back of your DS-2019 form.
+
+Individuals interested in understanding the 212(e) waiver process should review the U.S. Department of State Waiver website. More information regarding the 212€ Two Year Home Residency Decision can be found on our website here: 212(e) Two-Year Home Residency Requirement | Office of International Education.
+
+1. Travel Validation/Travel Signature: The Travel Validation/Signature on the DS-2019 must be signed by Alternate Responsible Officer (ARO)/Responsible Officer (RO). Travel Signatures for Active J-1 students are valid for 1 year from the date of the ARO/RO signature. J-1 Scholars must request a new Travel Signature in iStart each time they travel internationally.
+
+1. Exchange Visitor Certification: Print out your DS-2019 and sign it in ink in this field, before carrying it with you when you travel to the U.S. Be sure to read Page 2, “” carefully. When you sign the DS-2019 under “Exchange Visitor Certification you are certifying that you have read and agree to the terms and conditions concerning your admission and stay in the U.S.
+
+This notice applies to all information and resource materials provided by the OIE for the domain oie.gatech.edu and for all other information provided by OIE in any media format. It is provided for informational purposes only, and is not represented to be error free, complete, accurate or current. The information contained herein is not legal advice and should not be used as a substitute for the legal advice or legal opinions of a licensed professional. Users should contact their own personal attorney or licensed professional to obtain appropriate legal advice or other professional counseling with respect to any particular issue or problem.
+
+OIE is a unit of the Vice Provost of International Initiatives in the Office of the Provost.
