@@ -85,7 +85,7 @@ Preprocessing before chunking: the HTML-to-structured-text conversion (described
 - very lightweight
 - low context window (256 tokens), but perfect for 800 character chunk size
 
-**Top-k:** 5, but with cosine distance filter afterwards.
+**Top-k:** 10, but with cosine distance filter afterwards.
 - Chose a pretty generous top-k because student-visa related policy questions often cross multiple topics / policies. (ex: `Can I work on CPT for 2 years and apply for OPT later?` would require knowledge about different topics including CPT, OPT, post-completion OPT, and STEM OPT extension)
 
 **Production tradeoff reflection:**

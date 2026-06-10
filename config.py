@@ -24,5 +24,5 @@ CHUNK_SIZE = 800
 CHUNK_OVERLAP = 150
 
 # --- Retrieval ---
-TOP_K = 5
+TOP_K = 10
 DISTANCE_THRESHOLD = 0.5
