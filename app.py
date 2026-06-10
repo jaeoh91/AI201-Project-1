@@ -54,7 +54,7 @@ with gr.Blocks(title="GT F-1 Visa Policy Assistant") as demo:
 
     gr.HTML("""
         <div style="text-align:center; padding:1.25rem 0 0.5rem;">
-            <h1 style="font-size:2rem; font-weight:700; color:#003057; margin:0;">
+            <h1 style="font-size:2rem; font-weight:700; color:#FFD700; margin:0;">
                 GT F-1 Visa Policy Assistant
             </h1>
             <p style="color:#6b7280; font-size:1rem; margin:0.4rem 0 0;">
@@ -107,4 +107,4 @@ For authoritative guidance, always follow up with GT ISSS directly.
 
 
 if __name__ == "__main__":
-    demo.launch(theme=gr.themes.Soft(primary_hue="blue"))
+    demo.launch(theme=gr.themes.Soft(primary_hue="yellow"))

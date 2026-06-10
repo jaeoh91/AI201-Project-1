@@ -108,4 +108,4 @@ if __name__ == "__main__":
             # Print first 300 chars of the chunk body (skip the Source/URL header lines)
             body_lines = chunk["text"].splitlines()
             body = "\n  ".join(body_lines[3:])  # skip "Source:", "URL:", blank line
-            print(f"  {body[:400]}{'...' if len(body) > 400 else ''}")
+            print(f"  {body}")
