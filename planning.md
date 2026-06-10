@@ -69,8 +69,6 @@ The 800-character ceiling was chosen because the source documents consist of pol
 
 Preprocessing before chunking: the HTML-to-structured-text conversion (described in the Document Sources section above) was the primary preprocessing step. Each document also retains a `Source:` and `URL:` header that is prepended to every chunk at ingest time, ensuring every retrieved chunk carries its own citation regardless of where it lands after splitting.
 
-**Final chunk count:** 
-
 
 
 ---
@@ -83,11 +81,17 @@ Preprocessing before chunking: the HTML-to-structured-text conversion (described
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** `all-MiniLM-L6-v2`
+- very lightweight
+- low context window (256 tokens), but perfect for 800 character chunk size
 
-**Top-k:**
+**Top-k:** 5, but with cosine distance filter afterwards.
+- Chose a pretty generous top-k because student-visa related policy questions often cross multiple topics / policies. (ex: `Can I work on CPT for 2 years and apply for OPT later?` would require knowledge about different topics including CPT, OPT, post-completion OPT, and STEM OPT extension)
 
 **Production tradeoff reflection:**
+Without practical constraints, I would change my approach based on these considerations:
+- Domain Knowledge: A model fine tuned on legal / policy documents would result in more accurate embeddings. A general purpose model would not know, for instance, that "SEVIS", "DSO", and "I-20" are semantically close terms in a immigration context
+- Multilingual: I would also consider adding multilingual prompt support to allow users to prompt in their native languages. A multilingual model such as `multilingual-e5-large` would allow users to do so
 
 ---
 
@@ -100,11 +104,11 @@ Preprocessing before chunking: the HTML-to-structured-text conversion (described
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | I am an international student on a F1 visa. I worked for 400 days on full-time CPT. Am I eligible for OPT after graduation? | No, since you participated in more than 364 days of full-time CPT, you are not eligible for OPT. |
+| 2 | I worked for 4 academic semesters on part-time CPT, and 2 summers on full-time CPT (around 3 months each). Am I all good for OPT after graduation? | Yes, part-time CPT does not count towards your CPT limit. You completed around 6 months of full-time CPT, which should be well under the 364 day limit that would make you inelligible for OPT. |
+| 3 | I'm a F1 student who recently began work on-campus as a student employee. Do I need an SSN? How do I get one? | You don't need one under federal law, but GTHR requires you to obtain one and provide it within 90 days of your start date. [instructions to get one] |
+| 4 | I'm on post-completion OPT and my F-1 visa stamp expired. I want to visit my family abroad for 3 weeks and come back. What do I need to do before re-entering the U.S.? | You must obtain a new F-1 visa stamp at a U.S. Embassy or Consulate abroad before attempting to re-enter the U.S. — an expired visa stamp is not valid for re-entry even while on OPT. The one exception is Automatic Visa Revalidation, which allows re-entry with an expired visa only if you visited Canada, Mexico, or adjacent islands (excluding Cuba) for fewer than 30 days total and did not apply for a new visa during that trip. |
+| 5 | I'm an F-1 student and my doctor has recommended I take a lighter course load this semester for medical reasons. Can I drop below 12 credit hours, and if so, what is the minimum I can take? | Yes, you may apply for a Medical Reduced Course Load (RCL). You must submit documentation from a licensed medical professional and receive OIE approval *before* dropping below full-time. With medical RCL approval, you can reduce enrollment to as few as 0 credits. You cannot drop below full-time before receiving the approval or you will be considered out of status. |
 
 ---
 
@@ -114,19 +118,28 @@ Preprocessing before chunking: the HTML-to-structured-text conversion (described
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Many pages cross-reference each other without repeating the content.
+Phrases like "see OIE's Travel Guidance Website" or "review our STEM OPT guidance page" appear frequently. When those references land in a retrieved chunk, the LLM sees an instruction to look elsewhere but the referenced content is not in the context window. The model may either hallucinate what the linked page says or give an incomplete answer, neither of which is obvious to the user.
 
-2.
+2. Student questions are often colloquial & casual while documents are formal and bureaucratic.
+A student asking "am i good to start interning before CPT approved?" maps poorly to document text in formal language like "F-1 students must receive approval for their CPT authorization from OIE before starting their employment." The embedding distance between casual phrasing and regulatory language may be high enough that the correct chunk doesn't surface within the cosine threshold, even though the answer is present.
 
 ---
 
 ## Architecture
 
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```mermaid
+flowchart LR
+    A["Document Ingestion\n──────────────\ndocuments/*.txt\n(25 policy pages,\nHTML→structured text\nvia download_sources.py)"]
+    B[" Chunking\n──────────────\nRecursiveCharacter\nTextSplitter\nchunk=800 chars\noverlap=150 chars"]
+    C[" Embedding\n──────────────\nsentence-transformers\nall-MiniLM-L6-v2\n(local, no API)"]
+    D["Vector Store\n──────────────\nChromaDB\n(persistent,\ncosine similarity)"]
+    E["Retrieval\n──────────────\ntop-k=5\n+ cosine distance\nthreshold filter"]
+    F["Generation\n──────────────\nGroq API\nllama-3.3-70b-versatile\n+ grounded system prompt\n+ source citations"]
+
+    A --> B --> C --> D
+    D --> E --> F
+```
 
 ---
 
@@ -143,7 +156,19 @@ Preprocessing before chunking: the HTML-to-structured-text conversion (described
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+- **Tool:** Claude Sonnet 4.6 (High) through GitHub Copilot (in VS Code agent mode)
+- **Input:** The Chunking Strategy section of this planning.md (chunk size, overlap, separator hierarchy, preprocessing notes)
+- **Expected output:** An `ingest.py` that loads all `.txt` files from `documents/`, prepends the `Source:` / `URL:` header to every chunk, splits using `RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=150, separators=["\n\n", "\n", ". ", " "])`, and upserts chunks into a persistent ChromaDB collection
+- **Verification:** Run `ingest.py`, check that ChromaDB collection count matches expected chunk count; manually inspect 3–5 chunks from different files to confirm source headers are present and no chunk is truncated mid-sentence
 
 **Milestone 4 — Embedding and retrieval:**
+- **Tool:** Claude Sonnet 4.6 (High) through GitHub Copilot (in VS Code agent mode)
+- **Input:** The Retrieval Approach section of this planning.md (model name, top-k=5, cosine distance filter)
+- **Expected output:** A `retriever.py` with a `retrieve(query: str) -> list[dict]` function that embeds the query with `all-MiniLM-L6-v2`, queries ChromaDB for top-5 results, filters out chunks whose cosine distance exceeds the threshold, and returns a list of `{text, source, url, distance}` dicts
+- **Verification:** Run each of the 5 evaluation plan questions through `retriever.py` and manually check that the returned chunks contain the information needed to answer the question; flag any question where the correct source document does not appear in the top-5
 
 **Milestone 5 — Generation and interface:**
+- **Tool:** Claude Sonnet 4.6 (High) through GitHub Copilot (in VS Code agent mode)
+- **Input:** The Architecture diagram + the Grounded Generation section of README.md (system prompt design, citation format)
+- **Expected output:** A `generator.py` that formats retrieved chunks into a context block (with source/URL per chunk), calls the Groq API with a system prompt that instructs the model to answer only from the provided context and cite sources by name, and a `app.py` Gradio interface that wires the retriever and generator together with a chat input
+- **Verification:** Run all 5 evaluation plan questions end-to-end; confirm the response cites a real source URL for every claim, and that the system refuses to answer out-of-scope questions (e.g., "What is the capital of France?") rather than hallucinating

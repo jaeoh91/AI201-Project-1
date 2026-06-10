@@ -60,7 +60,38 @@ The 800-character ceiling was chosen because the source documents consist of pol
 
 Preprocessing before chunking: the HTML-to-structured-text conversion (described in the Document Sources section above) was the primary preprocessing step. Each document also retains a `Source:` and `URL:` header that is prepended to every chunk at ingest time, ensuring every retrieved chunk carries its own citation regardless of where it lands after splitting.
 
-**Final chunk count:** *(to be filled in after running `ingest.py`)*
+**Post-processing — orphaned heading fix:** Inspection of the initial chunks revealed that when a body paragraph ended exactly at the 800-character ceiling, the splitter placed the next section heading at the tail of the current chunk with no content beneath it. A retrieved chunk consisting solely of a citation header and a bare heading line is semantically useless to the LLM. A second pass detects these cases and moves the orphaned heading forward to the top of the following chunk, keeping headings co-located with the content they introduce.
+
+**Final chunk count:** 494
+
+```
+Loading and chunking 25 documents...
+  01_regulations_overview.txt: 22 chunks
+  02_f_immigration_document_overview.txt: 11 chunks
+  03_enrollment_requirements.txt: 23 chunks
+  04_understanding_your_i_20_ds_2019.txt: 22 chunks
+  05_i_20_updates_keeping_your_i_20_up_to_date.txt: 14 chunks
+  06_digitally_signed_i_20_form_guidance.txt: 7 chunks
+  07_travel.txt: 43 chunks
+  08_renewing_your_visa.txt: 11 chunks
+  09_taxes_for_non_residents.txt: 16 chunks
+  10_change_of_status_to_f_1.txt: 14 chunks
+  11_transfer_sevis_record_to_another_u_s_institution.txt: 10 chunks
+  12_change_of_status_from_f_1.txt: 7 chunks
+  13_out_of_status_options.txt: 18 chunks
+  14_social_security_numbers.txt: 12 chunks
+  15_f_1_employment_overview.txt: 12 chunks
+  16_practical_training_fee.txt: 10 chunks
+  17_curricular_practical_training_cpt.txt: 60 chunks
+  18_optional_practical_training_opt.txt: 55 chunks
+  19_opt_workshop.txt: 5 chunks
+  20_opt_employment_types_and_requirements.txt: 13 chunks
+  21_opt_frequently_asked_questions.txt: 15 chunks
+  22_opt_and_traveling_abroad.txt: 15 chunks
+  23_stem_opt_extension.txt: 63 chunks
+  24_h1b_cap_gap_extension.txt: 12 chunks
+  25_professional_development.txt: 4 chunks
+```
 
 ---
 
